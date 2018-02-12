@@ -1,0 +1,11 @@
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.exe.config
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.exe
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.pdb
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.Form1.resources
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.Properties.Resources.resources
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.csproj.GenerateResource.Cache
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.exe
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.pdb
+c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.csprojResolveAssemblyReference.cache
+C:\Users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.OpenWord.resources
+C:\Users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.TrainMemory.resources

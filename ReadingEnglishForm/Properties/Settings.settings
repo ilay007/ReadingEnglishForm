@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReadingEnglishForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EDictionary" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IlayVocabular.txt</Value>
+    </Setting>
+    <Setting Name="Vocabulary" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vocabulary.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

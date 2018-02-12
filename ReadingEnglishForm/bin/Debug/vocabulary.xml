@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <world word="To make  ">
+    <Item engword="To make  " russword=" Делать;">
+      <TimeCreation time="04.02.2018 22:26:46" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make up  " russword=" Догнать; Упаковка; Наверстать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make war  " russword=" Воевать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make a film  " russword=" Пленка;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make a noise  " russword=" Шуметь;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make merry  " russword=" Отмечать; Чествовать; Праздновать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make a will  " russword=" Завещать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make a present  " russword=" Дарить;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make a racket  " russword=" Буянить;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make face  " russword=" Гримасничать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make out  " russword=" Раскодировать; Расшифровывать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make over  " russword=" Переделывать; Перерабатывать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make difficult  " russword=" Отягощать;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make equal  " russword=" Делать равным;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To make friends  " russword=" Подружиться;">
+      <TimeCreation time="04.02.2018 22:27:24" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Declined ">
+    <Item engword="Declined " russword=" Отклонен; Отклоненный;">
+      <TimeCreation time="05.02.2018 23:19:49" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Lawsuit ">
+    <Item engword="Lawsuit " russword=" Акция; Принцип действия;">
+      <TimeCreation time="06.02.2018 1:00:45" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Shareholders ">
+    <Item engword="Shareholders " russword=" Акционеры;">
+      <TimeCreation time="06.02.2018 1:01:26" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Impress ">
+    <Item engword="Impress " russword=" Отпечаток;">
+      <TimeCreation time="06.02.2018 1:01:43" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Acknowledge ">
+    <Item engword="Acknowledge " russword=" Признавать;">
+      <TimeCreation time="06.02.2018 1:02:38" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world />
+  <world />
+  <world word="Entrepreneurship ">
+    <Item engword="Entrepreneurship " russword=" Предпринимательство;">
+      <TimeCreation time="07.02.2018 0:54:57" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To unleash  ">
+    <Item engword="To unleash  " russword=" Выпускать; Выпустить; Высвободить; Высвобождать;">
+      <TimeCreation time="07.02.2018 0:58:15" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To break down  ">
+    <Item engword="To break down  " russword=" Сносить; Провалить;">
+      <TimeCreation time="07.02.2018 1:01:25" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To master  ">
+    <Item engword="To master  " russword=" Превосходить; Преодолевать; Справляться;">
+      <TimeCreation time="07.02.2018 1:01:53" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To gut  ">
+    <Item engword="To gut  " russword=" Вылить; Вывалить; Выливать; Вываливать;">
+      <TimeCreation time="07.02.2018 1:07:35" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To back up  ">
+    <Item engword="To back up  " russword=" Обосновывать; Гарантировать; Обеспечивать;">
+      <TimeCreation time="07.02.2018 1:08:44" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+    <Item engword="To back  " russword=" Поддерживать;">
+      <TimeCreation time="07.02.2018 1:08:44" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Crucial ">
+    <Item engword="Crucial " russword=" Решающий;">
+      <TimeCreation time="07.02.2018 1:11:25" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To ruin  ">
+    <Item engword="To ruin  " russword=" Развалины; Подрывать; Повредить; Портиться; Портить; Губить;">
+      <TimeCreation time="07.02.2018 1:19:10" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Hindsight ">
+    <Item engword="Hindsight " russword=" Непредусмотрительность;">
+      <TimeCreation time="09.02.2018 9:31:14" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+</root>

@@ -1,0 +1,109 @@
+make to map Undoubtedly, Apple co-founder and visionary Steve Jobs wrote several thousands of emails throughout his life. Relatively few of them have been shared with the public, and most of those are short responses to customer complaints.
+
+But there are a few trails out there that show the skillful way Jobs used written communication. Let's take a look at just one example and see what lessons we can glean from it.
+
+[Note: This email was made part of public record when it was used as evidence in a U.S. lawsuit against Apple accusing the company of conspiring to raise the price of Ebooks in violation of antitrust laws. Apple was found guilty, although the company denied it had done anything wrong and fought the decision through the appeal process. The U.S. Supreme Court eventually declined to hear Apple's appeal, meaning the company was required to pay a $450 million settlement.]
+The context.
+
+In 2010, Jobs and Apple were preparing to release the iPad. A key feature would be the tablet's ability to function as an e-reader, similar to Amazon's Kindle (which had already been out for a few years). Of course, the more publishers willing to contribute books to Apple's iTunes store, the more appeal the iPad would hold.
+
+Four major publishers had already signed on, but another, HarperCollins, was holding out.
+
+Negotiations eventually centered around a key conversation between Jobs and James Murdoch, an executive at News Corp. (HarperCollins' parent company). Murdoch wasn't convinced his company (and its partners) could agree to the terms Apple was offering, especially regarding the "ceding of pricing to Apple."
+
+Jobs proceeded to write an email to try to convince HC to join.
+
+Here's what it said:
+
+    James,
+
+    Our proposal does set the upper limit for ebook retail pricing based on the hardcover price of each book. The reason we are doing this is that, with our experience selling a lot of content online, we simply don't think the ebook market can be successful with pricing higher than $12.99 or $14.99. Heck, Amazon is selling these books at $9.99, and who knows, maybe they are right and we will fail even at $12.99. But we're willing to try at the prices we've proposed. We are not willing to try at higher prices because we are pretty sure we'll all fail.
+
+    As I see it, HC has the following choices:
+
+    1. Throw in with Apple and see if we can all make a go of this to create a real mainstream ebooks market at $12.99 and $14.99.
+
+    2. Keep going with Amazon at $9.99. You will make a bit more money in the short term, but in the medium term Amazon will tell you they will be paying you 70 percent of $9.99. They have shareholders too.
+
+    3. Hold back your books from Amazon. Without a way for customers to buy your ebooks, they will steal them. This will be the start of piracy and once started there will be no stopping it. Trust me, I've seen this happen with my own eyes.
+
+    Maybe I'm missing something, but I don't see any other alternatives. Do you?
+
+    Regards,
+    Steve
+
+This email contains a number of invaluable lessons. Let's break them down.
+He uses the recipient's name.
+
+This email is only a part of a larger thread that had begun at least two days earlier. There was no need for Jobs to address Murdoch by name. So, why did he?
+
+Of course, we can't read Jobs's mind. But using a person's first name reestablishes connection and helps build trust. It says: Look, I know you. You know me. We're on the same side here.
+
+Takeaway: I'm not suggesting you begin every email with the person's name, especially after correspondence has already begun. But if you're trying to make a point or reestablish a common ground, remember the famous words of Dale Carnegie:
+
+"A person's name is to that person the sweetest and most important sound in any language."
+It's well-thought out.
+
+I don't know how long Jobs took to compose this email, but we can assume it was more than a few minutes. It clearly explains his position, in simple, understandable terms.
+
+"Heck, Amazon is selling these books at $9.99, and who knows, maybe they are right and we will fail even at $12.99," Jobs writes. "But we're willing to try at the prices we've proposed. We are not willing to try at higher prices because we are pretty sure we'll all fail."
+
+This language is conversational, vulnerable, and paints the picture of Apple giving it their best shot, pursuing bias for action, and preparing to learn from any mistakes.
+
+Jobs goes on to clearly spell out HarperCollins' three options. In enumerating these, he further simplifies a complex issue in efforts to get Murdoch to make a decision.
+
+Takeaway: Take your time when crafting an email. View it as an opportunity to really affect another person--whether it's an attempt to persuade, influence, or further build the relationship. If it's an important email, write a draft and then leave it alone. Come back to it later to re-read and edit. Try to read the email through the other person's eyes.
+
+Ask yourself:
+
+    Is it clear and logical? Fair and balanced?
+    Is it easy to read? (Using numbers or bullets like Jobs did can help.)
+    Am I sure I won't later regret something I've written here?
+    Was I careful not to write too much?
+
+Repeat the process a few times, until you can confidently answer yes to each question.
+
+Additionally, there's no need to try to impress or use extensive jargon when writing your emails. People, even your superiors--and especially your partners--appreciate dealing with a real person on the other side.
+
+Make sure you sound like one.
+It's well-written.
+
+Conversational and real doesn't have to mean sloppy. Clear thinking leads to clearer writing, and vice versa.
+
+For example, you might notice that throughout the email Jobs uses proper:
+
+    Capitalization
+    Punctuation
+    Spelling
+    Grammar
+    Syntax
+
+Did that come by chance, on the first try? Don't bet on it.
+
+Takeaway: I'm amazed at how sloppy most emails are nowadays. If you pay attention to your writing, it will be easier to understand and carry the full weight of your thoughts. By showing attention to detail, you'll stand out among peers and leave a better impression.
+It's emotionally intelligent.
+
+No one wants to feel like they're being pressured into a decision, or that power is being taken away from them.
+
+That's why the final line in this email the most powerful:
+
+"Maybe I'm missing something, but I don't see any other alternatives. Do you?"
+
+With two simple sentences, 13 words, Jobs simultaneously communicates confidence and humility. He throws the ball back into Murdoch's court, giving him an opportunity to push back or offer solutions.
+
+Within two days HarperCollins would agree to Apple's terms.
+
+Takeaway: Make sure your communication partner feels they're a part of the process, not just a pawn in your game. Be willing to listen to others, to consider their concerns, and acknowledge mistakes.
+
+By doing so, you'll instill trust. Not only will you move matters along more quickly, you'll do so efficiently--by addressing problems and concerns head-on.
+It uses a sign-off.
+
+You might not think much of the way Jobs ends his message. Actually, in an email like this one, where the conversation is expected to continue, Jobs could have ended with his question. But remember that the sign-off is the last thing the recipient reads--so it can be the "cherry on top," so to speak. That quick little "regards," along with his first name, keeps things personal and respectful.
+
+Takeaway: You're trying to build (or maintain) a relationship with the people you email. Just as you wouldn't normally end a spoken conversation without saying goodbye, you shouldn't do it with email, barring a few exceptions. (If you're looking for ideas on how to effectively end your email, check out these suggestions.)
+
+Well thought out. Clearly written. Easy to understand. Short and sweet.
+
+And most of all: emotionally intelligent.
+
+That's how you write a great email.
