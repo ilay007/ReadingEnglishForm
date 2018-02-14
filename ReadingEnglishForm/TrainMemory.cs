@@ -24,6 +24,7 @@ namespace ReadingEnglishForm
 
         private Bitmap CurMap;
         private Bitmap TranslatedCurMap;
+        private int NumCruTranslation;
         private Graphics g;
         public Word Button;
         public int shift = 25;
@@ -38,46 +39,51 @@ namespace ReadingEnglishForm
 
         public void InitQueue()
         {
+            var count=0;
             foreach (var word in Word.Vocabulary)
             {
                 TrainQueue.Enqueue(word);
+                if(count==4)break;
+                count++;
             }
-           
+
             CurMap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             g = Graphics.FromImage(CurMap);
             CurrentWord = TrainQueue.Dequeue();
-            DrawSample(CurrentWord);
+            DrawSampleRus(CurrentWord);
            
         }
 
-        public void DrawSample(KeyValuePair<string,VocabularyInfoWord> word)
+        public void DrawSampleRus(KeyValuePair<string,VocabularyInfoWord> word)
         {
               var lstr = new Dictionary<string, PointF>();
               g.Clear(Color.White);
                 var rnd = new Random().Next(0, 4);
-             
+           
                 Font drawFont = new Font("Arial", 20);
 
-                SolidBrush drawBrushWord = new SolidBrush(Color.Blue);
-                SolidBrush drawBrush = new SolidBrush(Color.Black);
+                SolidBrush drawBrushWord = new SolidBrush(word.Value.Color);
+               
                 PointF drawPoint = new PointF(pictureBox1.Width / 2 - ((int)g.MeasureString(word.Key, drawFont).Width/2), 50.0F);
                 g.DrawString(word.Key, drawFont, drawBrushWord, drawPoint);
-
+                 NumCruTranslation = new Random().Next(0, word.Value.RusTranslation.Count - 1);
                 drawBrushWord = new SolidBrush(Color.DarkGreen);
+
+
                 for (int i = 0; i < 4; i++)
                 {
                     var print = "";
-                    if (rnd == i) print = word.Value.RusTranslation[0];
+                    if (rnd == i) print = word.Value.RusTranslation[NumCruTranslation];
                     else print = GetRandom();
                     var y = 150;
-                    var x = 350;
+                    var x = 450;
                     if (i>1)
                     {
                         y += 100;
                     }
                     if (i%2 == 0)
                     {
-                        x = 80;
+                        x = 50;
                     }
                     drawPoint = new PointF(x, y);
                     while (lstr.ContainsKey(print))
@@ -101,6 +107,59 @@ namespace ReadingEnglishForm
           
         }
 
+        public void DrawSampleEngl(KeyValuePair<string, VocabularyInfoWord> word)
+        {
+            var lstr = new Dictionary<string, PointF>();
+            g.Clear(Color.White);
+            var rnd = new Random().Next(0, 4);
+            word.Value.Mode = Mode.BackTranslation;
+            Font drawFont = new Font("Arial", 20);
+
+            SolidBrush drawBrushWord = new SolidBrush(word.Value.Color);
+
+            PointF drawPoint = new PointF(pictureBox1.Width / 2 - ((int)g.MeasureString(word.Key, drawFont).Width / 2), 50.0F);
+
+            NumCruTranslation = new Random().Next(0, word.Value.RusTranslation.Count-1);
+
+            g.DrawString(word.Value.RusTranslation[NumCruTranslation], drawFont, drawBrushWord, drawPoint);
+            word.Value.EnglTranslation = word.Key;
+            drawBrushWord = new SolidBrush(Color.DarkGreen);
+            for (int i = 0; i < 4; i++)
+            {
+                var print = "";
+                if (rnd == i) print = word.Key;
+                else print = GetRandomEngl();
+                var y = 150;
+                var x = 450;
+                if (i > 1)
+                {
+                    y += 100;
+                }
+                if (i % 2 == 0)
+                {
+                    x = 50;
+                }
+                drawPoint = new PointF(x, y);
+                while (lstr.ContainsKey(print))
+                {
+                    print = GetRandom();
+                }
+                lstr.Add(print, drawPoint);
+            }
+            CurWords.Clear();
+            foreach (var sign in lstr)
+            {
+                g.DrawString(sign.Key, drawFont, drawBrushWord, sign.Value);
+                var mesure = g.MeasureString(sign.Key, drawFont);
+                CurWords.Add(new Word(sign.Key, (int)sign.Value.X, (int)sign.Value.Y, (int)mesure.Width, (int)mesure.Height));
+
+
+            }
+
+            pictureBox1.Image = CurMap;
+        }
+
+
         public string GetRandom()
         {
             var rnd = new Random().Next(0, Word.Vocabulary.Count);
@@ -116,6 +175,23 @@ namespace ReadingEnglishForm
             }
             return "";
         }
+
+        public string GetRandomEngl()
+        {
+            var rnd = new Random().Next(0, Word.Vocabulary.Count);
+            var count = 0;
+            foreach (var word in Word.Vocabulary)
+            {
+
+                if (rnd == count)
+                {
+                    return word.Key;
+                }
+                count++;
+            }
+            return "";
+        }
+
 
         public void WriteListString(Word translatedword)
         {
@@ -266,23 +342,34 @@ namespace ReadingEnglishForm
         private void pictureBox1_Click(object sender, MouseEventArgs e)
         {
         
-            if (CurWords.Any(curword => curword.PlaceWord.Contains(e.X, e.Y) && curword.Value == CurrentWord.Value.RusTranslation[0]))
+           if(TrainQueue.Count==0)this.Close();
+         
+            if (CurrentWord.Value.Mode == Mode.DirectTranslation)
             {
-                CurrentWord = TrainQueue.Dequeue();
-                DrawSample(CurrentWord);
+                if (
+                    CurWords.Any(
+                        curword =>
+                            curword.PlaceWord.Contains(e.X, e.Y) &&
+                            curword.Value == CurrentWord.Value.RusTranslation[NumCruTranslation]))
+                {
+                    CurrentWord.Value.Mode = Mode.BackTranslation;
+                    TrainQueue.Enqueue(CurrentWord);
+                   
+                    CurrentWord = TrainQueue.Dequeue();
+                    DrawSampleRus(CurrentWord);
+                }
+                    
+            }
+            else if(CurWords.Any(curword => curword.PlaceWord.Contains(e.X, e.Y) && curword.Value == CurrentWord.Value.EnglTranslation))
+            {
+                if (CurrentWord.Value.Mode == Mode.BackTranslation)
+                {
+                    CurrentWord.Value.Mode = Mode.Writing;
+                    TrainQueue.Enqueue(CurrentWord);
+                    CurrentWord = TrainQueue.Dequeue();
+                    DrawSampleEngl(CurrentWord);
+                }
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

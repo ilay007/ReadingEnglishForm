@@ -9,3 +9,14 @@ c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEn
 c:\users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.csprojResolveAssemblyReference.cache
 C:\Users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.OpenWord.resources
 C:\Users\ilay\documents\visual studio 2015\Projects\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.TrainMemory.resources
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.exe.config
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.exe
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\bin\Debug\ReadingEnglishForm.pdb
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.Form1.resources
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.OpenWord.resources
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.TrainMemory.resources
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.exe
+C:\Users\ASUS\Desktop\Git\ReadingEnglishForm\ReadingEnglishForm\obj\Debug\ReadingEnglishForm.pdb

@@ -6,6 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -21,111 +22,108 @@ namespace ReadingEnglishForm
 
         public Form1()
         {
-            try
-            {
-                // new xdoc instance 
-                XmlDocument xDoc = new XmlDocument();
+            //try
+            //{
+            //    // new xdoc instance 
+            //    XmlDocument xDoc = new XmlDocument();
 
-                //load up the xml from the location 
-                xDoc.Load("books5.xml");
+            //    //load up the xml from the location 
+            //    xDoc.Load("books5.xml");
 
-                // cycle through each child noed 
-                foreach (XmlNode node in xDoc.DocumentElement.ChildNodes)
-                {
-                    // first node is the url ... have to go to nexted loc node 
-                    foreach (XmlNode locNode in node)
-                    {
-                        // thereare a couple child nodes here so only take data from node named loc 
-                        if (locNode.Name == "Item")
-                        {
-                            // get the content of the loc node 
+            //    // cycle through each child noed 
+            //    foreach (XmlNode node in xDoc.DocumentElement.ChildNodes)
+            //    {
+            //        // first node is the url ... have to go to nexted loc node 
+            //        foreach (XmlNode locNode in node)
+            //        {
+            //            // thereare a couple child nodes here so only take data from node named loc 
+            //            if (locNode.Name == "Item")
+            //            {
+            //                // get the content of the loc node 
 
-                            var atributs = locNode.Attributes;
-                            foreach (var atribut in atributs)
-                            {
-                                var sf=(XmlNode)atribut;
-                               var iner= sf.InnerText;
-                               var name = sf.LocalName;
+            //                var atributs = locNode.Attributes;
+            //                foreach (var atribut in atributs)
+            //                {
+            //                    var sf=(XmlNode)atribut;
+            //                   var iner= sf.InnerText;
+            //                   var name = sf.LocalName;
 
-                            }
+            //                }
 
-                        }
-                    }
-                }
-            }
-            catch
-            {
-            }
+            //            }
+            //        }
+            //    }
+            //}
+            //catch
+            //{
+            //}
+            //// Create a writer to write XML to the console.
+            ////XmlWriterSettings settings = new XmlWriterSettings();
+            ////settings.Indent = true;
+            ////settings.OmitXmlDeclaration = true;
+            //XmlWriter writer = XmlWriter.Create("booksy.xml");
 
+            //// Write the book element.
+            //writer.WriteStartElement("root");
 
+            //writer.WriteStartElement("world");
+            //writer.WriteAttributeString("name", "make");
 
+            //// Write the title element.
+            //writer.WriteStartElement("Item");
+            //writer.WriteAttributeString("engword","to_make_up");
+            //writer.WriteAttributeString("russword","красится");
 
+            //writer.WriteStartElement("TimeSecsess");
+            //writer.WriteAttributeString("time", DateTime.Now.ToString());
+            //writer.WriteEndElement();
+            //writer.WriteEndElement();
 
+            //writer.WriteStartElement("Item");
+            //writer.WriteAttributeString("engword","to_a_war", "воевать");
+            //writer.WriteAttributeString("russword", "красится");
+            //writer.WriteEndElement();
 
-            // Create a writer to write XML to the console.
-            //XmlWriterSettings settings = new XmlWriterSettings();
-            //settings.Indent = true;
-            //settings.OmitXmlDeclaration = true;
-            XmlWriter writer = XmlWriter.Create("booksy.xml");
+            //writer.WriteStartElement("TimeCreation");
+            //writer.WriteAttributeString("time", DateTime.Now.ToString());
+            //writer.WriteEndElement();
 
-            // Write the book element.
-            writer.WriteStartElement("root");
-
-            writer.WriteStartElement("world");
-            writer.WriteAttributeString("name", "make");
-
-            // Write the title element.
-            writer.WriteStartElement("Item");
-            writer.WriteAttributeString("engword","to_make_up");
-            writer.WriteAttributeString("russword","красится");
-
-            writer.WriteStartElement("TimeSecsess");
-            writer.WriteAttributeString("time", DateTime.Now.ToString());
-            writer.WriteEndElement();
-            writer.WriteEndElement();
-
-            writer.WriteStartElement("Item");
-            writer.WriteAttributeString("engword","to_a_war", "воевать");
-            writer.WriteAttributeString("russword", "красится");
-            writer.WriteEndElement();
-
-            writer.WriteStartElement("TimeCreation");
-            writer.WriteAttributeString("time", DateTime.Now.ToString());
-            writer.WriteEndElement();
-
-            writer.WriteStartElement("TimeSecsess");
-            writer.WriteAttributeString("time", DateTime.Now.ToString());
-            writer.WriteEndElement();
-            writer.WriteEndElement();
+            //writer.WriteStartElement("TimeSecsess");
+            //writer.WriteAttributeString("time", DateTime.Now.ToString());
+            //writer.WriteEndElement();
+            //writer.WriteEndElement();
 
 
 
-            writer.WriteStartElement("world");
-            writer.WriteAttributeString("name", "map");
+            //writer.WriteStartElement("world");
+            //writer.WriteAttributeString("name", "map");
 
-            // Write the title element.
-            writer.WriteStartElement("Item");
-            writer.WriteAttributeString("to_map_up", "красится");
-            writer.WriteEndElement();
+            //// Write the title element.
+            //writer.WriteStartElement("Item");
+            //writer.WriteAttributeString("to_map_up", "красится");
+            //writer.WriteEndElement();
 
-            writer.WriteStartElement("Item");
-            writer.WriteAttributeString("to_map", "воевать");
-            writer.WriteEndElement();
+            //writer.WriteStartElement("Item");
+            //writer.WriteAttributeString("to_map", "воевать");
+            //writer.WriteEndElement();
 
-            writer.WriteStartElement("TimeCreation");
-            writer.WriteAttributeString("time", DateTime.Now.ToString());
-            writer.WriteEndElement();
+            //writer.WriteStartElement("TimeCreation");
+            //writer.WriteAttributeString("time", DateTime.Now.ToString());
+            //writer.WriteEndElement();
 
-            writer.WriteStartElement("TimeSecsess");
-            writer.WriteAttributeString("time", DateTime.Now.ToString());
-            writer.WriteEndElement();
-            writer.WriteEndElement();
-            writer.WriteEndElement();
-            // Write the XML and close the writer.
-            writer.Close();
+            //writer.WriteStartElement("TimeSecsess");
+            //writer.WriteAttributeString("time", DateTime.Now.ToString());
+            //writer.WriteEndElement();
+            //writer.WriteEndElement();
+            //writer.WriteEndElement();
+            //// Write the XML and close the writer.
+            //writer.Close();
 
 
             InitializeComponent();
+
+
+          
             LoadVacabulary();
             LoadFileEDictionary();
            
@@ -157,6 +155,7 @@ namespace ReadingEnglishForm
                         var time = "";
                         var rusword = "";
                         var englword = "";
+                        var color = Color.Blue;
 
                         var atributs = locNode.Attributes;
 
@@ -167,6 +166,10 @@ namespace ReadingEnglishForm
                             {
                                 time = d.InnerText;
                             }
+                            if (d.Name == "Color")
+                            {
+                                color = Color.FromName(d.InnerText);
+                            }
                         }
 
                         foreach (var atribut in atributs)
@@ -176,7 +179,7 @@ namespace ReadingEnglishForm
                             if (sf.LocalName == "russword") rusword = sf.InnerText;
                         }
 
-                        if(!Word.Vocabulary.ContainsKey(englword))Word.Vocabulary.Add(englword,new VocabularyInfoWord(rusword,time));
+                        if(!Word.Vocabulary.ContainsKey(englword))Word.Vocabulary.Add(englword,new VocabularyInfoWord(rusword,time,color));
 
                     }
                 }

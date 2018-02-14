@@ -29,6 +29,8 @@ namespace ReadingEnglishForm
         {
             InitializeComponent();
             WriteListString(data);
+
+          
         }
 
         public void WriteListString(Word translatedword)
@@ -133,9 +135,25 @@ namespace ReadingEnglishForm
 
         }
 
+
+        public List<string> GetColors()
+        {
+            var lstring = new List<string>();
+            var count = 0;
+            foreach (KnownColor kc in Enum.GetValues(typeof(KnownColor)))
+            {
+                if (count > 30 && count < 130)
+                {
+                    lstring.Add(kc.ToString());
+                }
+                count++;
+            }
+            return lstring;
+        } 
+
         public void AddToEDictionary()
         {
-           
+            var Colors = GetColors();
             var namefile = "vocabulary.xml";
             XDocument doc1 = XDocument.Load(namefile);
             XElement school = doc1.Element("root");
@@ -158,6 +176,12 @@ namespace ReadingEnglishForm
                 timegoodanswer.Add(new XAttribute("time", " "));
 
 
+
+                var n = new Random().Next(0, Colors.Count - 1);
+                var color = new XElement("Color");
+                color.Add(new XAttribute("color", Color.FromName(Colors[n])));
+
+
                 var rusword = "";
                 foreach (var val in word.Value)
                 {
@@ -169,6 +193,7 @@ namespace ReadingEnglishForm
                 Item.Add(new XAttribute("russword", rusword));
                 Item.Add(time);
                 Item.Add(timegoodanswer);
+                Item.Add(color);
 
                 oneword.Add(Item);
                

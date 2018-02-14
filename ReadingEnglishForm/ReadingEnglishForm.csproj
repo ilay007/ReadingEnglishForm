@@ -77,6 +77,7 @@
     <Compile Include="VocabularyInfoWord.cs" />
     <Compile Include="Word.cs" />
     <Compile Include="WordInRectangle.cs" />
+    <Compile Include="XmlHandler.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

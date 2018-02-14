@@ -152,4 +152,40 @@
       <TimeGoodAnswer time=" " />
     </Item>
   </world>
+  <world word="To sway  ">
+    <Item engword="To sway  " russword=" Колебаться; Шататься; Качаться;">
+      <TimeCreation time="13.02.2018 18:38:25" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Decision ">
+    <Item engword="Decision " russword=" Решение;">
+      <TimeCreation time="13.02.2018 18:38:50" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To derail  ">
+    <Item engword="To derail  " russword=" Вызвать крушение; Сходить с рельсов;">
+      <TimeCreation time="13.02.2018 18:40:08" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To bias  ">
+    <Item engword="To bias  " russword=" Воздействовать;">
+      <TimeCreation time="13.02.2018 18:44:27" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="To spite  ">
+    <Item engword="To spite  " russword=" Злить; Сердить; Досаждать;">
+      <TimeCreation time="13.02.2018 18:47:41" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
+  <world word="Aversion ">
+    <Item engword="Aversion " russword=" Отвращение;">
+      <TimeCreation time="13.02.2018 18:50:01" />
+      <TimeGoodAnswer time=" " />
+    </Item>
+  </world>
 </root>
