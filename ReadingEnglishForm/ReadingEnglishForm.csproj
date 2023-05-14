@@ -12,6 +12,7 @@
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,6 +34,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.13.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,6 +52,7 @@
     <Reference Include="System.Xml.Serialization" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CharPoint.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,12 +60,14 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="InfoWord.cs" />
+    <Compile Include="ListCharPoints.cs" />
     <Compile Include="OpenWord.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="OpenWord.Designer.cs">
       <DependentUpon>OpenWord.cs</DependentUpon>
     </Compile>
+    <Compile Include="PrintedBuffer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PictureText.cs">
@@ -68,11 +76,29 @@
     <Compile Include="PictureText.Designer.cs">
       <DependentUpon>PictureText.cs</DependentUpon>
     </Compile>
+    <Compile Include="SimpleFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleFrom.Designer.cs">
+      <DependentUpon>SimpleFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestItem.Designer.cs">
+      <DependentUpon>TestItem.cs</DependentUpon>
+    </Compile>
     <Compile Include="TrainMemory.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="TrainMemory.Designer.cs">
       <DependentUpon>TrainMemory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewVocabulary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewVocabulary.Designer.cs">
+      <DependentUpon>ViewVocabulary.cs</DependentUpon>
     </Compile>
     <Compile Include="VocabularyInfoWord.cs" />
     <Compile Include="Word.cs" />
@@ -92,10 +118,18 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="TestItem.resx">
+      <DependentUpon>TestItem.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TrainMemory.resx">
       <DependentUpon>TrainMemory.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ViewVocabulary.resx">
+      <DependentUpon>ViewVocabulary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

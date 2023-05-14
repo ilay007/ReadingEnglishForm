@@ -3,93 +3,93 @@
   <world word="To make  ">
     <Item engword="To make  " russword=" Делать;">
       <TimeCreation time="04.02.2018 22:26:46" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="30.10.2018 12:30:00" />
     </Item>
-    <Item engword="To make up  " russword=" Догнать; Упаковка; Наверстать;">
+    <Item engword="To make up  " russword=" Догнать; Упаковывать; Наверстать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:11" />
     </Item>
     <Item engword="To make war  " russword=" Воевать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:14" />
     </Item>
-    <Item engword="To make a film  " russword=" Пленка;">
+    <Item engword="To make a film  " russword=" Снимать кино;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:15" />
     </Item>
     <Item engword="To make a noise  " russword=" Шуметь;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:17" />
     </Item>
     <Item engword="To make merry  " russword=" Отмечать; Чествовать; Праздновать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:19" />
     </Item>
     <Item engword="To make a will  " russword=" Завещать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:22" />
     </Item>
     <Item engword="To make a present  " russword=" Дарить;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:35:06" />
     </Item>
     <Item engword="To make a racket  " russword=" Буянить;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:31" />
     </Item>
     <Item engword="To make face  " russword=" Гримасничать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:34" />
     </Item>
     <Item engword="To make out  " russword=" Раскодировать; Расшифровывать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:32:37" />
     </Item>
     <Item engword="To make over  " russword=" Переделывать; Перерабатывать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:33:35" />
     </Item>
     <Item engword="To make difficult  " russword=" Отягощать;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:35:18" />
     </Item>
     <Item engword="To make equal  " russword=" Делать равным;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:35:55" />
     </Item>
     <Item engword="To make friends  " russword=" Подружиться;">
       <TimeCreation time="04.02.2018 22:27:24" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 22:35:58" />
     </Item>
   </world>
   <world word="Declined ">
     <Item engword="Declined " russword=" Отклонен; Отклоненный;">
       <TimeCreation time="05.02.2018 23:19:49" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:18:11" />
     </Item>
   </world>
   <world word="Lawsuit ">
     <Item engword="Lawsuit " russword=" Акция; Принцип действия;">
       <TimeCreation time="06.02.2018 1:00:45" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:18:16" />
     </Item>
   </world>
   <world word="Shareholders ">
     <Item engword="Shareholders " russword=" Акционеры;">
       <TimeCreation time="06.02.2018 1:01:26" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:07:48" />
     </Item>
   </world>
   <world word="Impress ">
     <Item engword="Impress " russword=" Отпечаток;">
       <TimeCreation time="06.02.2018 1:01:43" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:18:36" />
     </Item>
   </world>
   <world word="Acknowledge ">
     <Item engword="Acknowledge " russword=" Признавать;">
       <TimeCreation time="06.02.2018 1:02:38" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:07:57" />
     </Item>
   </world>
   <world />
@@ -97,95 +97,1724 @@
   <world word="Entrepreneurship ">
     <Item engword="Entrepreneurship " russword=" Предпринимательство;">
       <TimeCreation time="07.02.2018 0:54:57" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 23:27:21" />
     </Item>
   </world>
   <world word="To unleash  ">
     <Item engword="To unleash  " russword=" Выпускать; Выпустить; Высвободить; Высвобождать;">
       <TimeCreation time="07.02.2018 0:58:15" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:20:37" />
     </Item>
   </world>
   <world word="To break down  ">
     <Item engword="To break down  " russword=" Сносить; Провалить;">
       <TimeCreation time="07.02.2018 1:01:25" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:20:44" />
     </Item>
   </world>
   <world word="To master  ">
     <Item engword="To master  " russword=" Превосходить; Преодолевать; Справляться;">
       <TimeCreation time="07.02.2018 1:01:53" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:20:49" />
     </Item>
   </world>
   <world word="To gut  ">
     <Item engword="To gut  " russword=" Вылить; Вывалить; Выливать; Вываливать;">
       <TimeCreation time="07.02.2018 1:07:35" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:20:56" />
     </Item>
   </world>
   <world word="To back up  ">
     <Item engword="To back up  " russword=" Обосновывать; Гарантировать; Обеспечивать;">
       <TimeCreation time="07.02.2018 1:08:44" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:21:08" />
     </Item>
     <Item engword="To back  " russword=" Поддерживать;">
       <TimeCreation time="07.02.2018 1:08:44" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:08:28" />
     </Item>
   </world>
   <world word="Crucial ">
     <Item engword="Crucial " russword=" Решающий;">
       <TimeCreation time="07.02.2018 1:11:25" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:08:39" />
     </Item>
   </world>
   <world word="To ruin  ">
     <Item engword="To ruin  " russword=" Развалины; Подрывать; Повредить; Портиться; Портить; Губить;">
       <TimeCreation time="07.02.2018 1:19:10" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:21:23" />
     </Item>
   </world>
   <world word="Hindsight ">
     <Item engword="Hindsight " russword=" Непредусмотрительность;">
       <TimeCreation time="09.02.2018 9:31:14" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:08:49" />
     </Item>
   </world>
   <world word="To sway  ">
     <Item engword="To sway  " russword=" Колебаться; Шататься; Качаться;">
       <TimeCreation time="13.02.2018 18:38:25" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:21:39" />
     </Item>
   </world>
   <world word="Decision ">
     <Item engword="Decision " russword=" Решение;">
       <TimeCreation time="13.02.2018 18:38:50" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:08:54" />
     </Item>
   </world>
   <world word="To derail  ">
     <Item engword="To derail  " russword=" Вызвать крушение; Сходить с рельсов;">
       <TimeCreation time="13.02.2018 18:40:08" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:21:49" />
     </Item>
   </world>
   <world word="To bias  ">
     <Item engword="To bias  " russword=" Воздействовать;">
       <TimeCreation time="13.02.2018 18:44:27" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:08:59" />
     </Item>
   </world>
   <world word="To spite  ">
     <Item engword="To spite  " russword=" Злить; Сердить; Досаждать;">
       <TimeCreation time="13.02.2018 18:47:41" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="18.12.2018 23:21:57" />
     </Item>
   </world>
   <world word="Aversion ">
     <Item engword="Aversion " russword=" Отвращение;">
       <TimeCreation time="13.02.2018 18:50:01" />
-      <TimeGoodAnswer time=" " />
+      <TimeGoodAnswer time="19.12.2018 13:09:04" />
     </Item>
   </world>
+  <world word="To quit  ">
+    <Item engword="To quit  " russword=" Оставлять;">
+      <TimeCreation time="15.02.2018 14:44:23" />
+      <TimeGoodAnswer time="18.12.2018 23:24:03" />
+      <Color color="Color [DodgerBlue]" />
+    </Item>
+  </world>
+  <world word="To proclaim  ">
+    <Item engword="To proclaim  " russword=" Обнародовать;">
+      <TimeCreation time="15.02.2018 14:49:59" />
+      <TimeGoodAnswer time="19.12.2018 13:09:10" />
+      <Color color="Color [Linen]" />
+    </Item>
+  </world>
+  <world word="Greatness ">
+    <Item engword="Greatness " russword=" Величие;">
+      <TimeCreation time="15.02.2018 14:50:30" />
+      <TimeGoodAnswer time="18.12.2018 23:24:20" />
+      <Color color="Color [DarkRed]" />
+    </Item>
+  </world>
+  <world word="Confirmation ">
+    <Item engword="Confirmation " russword=" Миропомазание;">
+      <TimeCreation time="15.02.2018 14:53:46" />
+      <TimeGoodAnswer time="18.12.2018 23:24:28" />
+      <Color color="Color [DarkCyan]" />
+    </Item>
+  </world>
+  <world word="Suspicions ">
+    <Item engword="Suspicion " russword=" Подозрение;">
+      <TimeCreation time="15.02.2018 14:55:42" />
+      <TimeGoodAnswer time="18.12.2018 23:24:32" />
+      <Color color="Color [DarkTurquoise]" />
+    </Item>
+  </world>
+  <world />
+  <world word="Wield ">
+    <Item engword="Wield " russword=" Обладает; Владеет;">
+      <TimeCreation time="15.02.2018 14:57:51" />
+      <TimeGoodAnswer time="06.11.2018 11:10:40" />
+      <Color color="Color [Firebrick]" />
+    </Item>
+  </world>
+  <world word="Brand ">
+    <Item engword="Brand " russword=" Бренд;">
+      <TimeCreation time="15.02.2018 14:59:16" />
+      <TimeGoodAnswer time="19.12.2018 13:13:51" />
+      <Color color="Color [MintCream]" />
+    </Item>
+    <Item engword="To brand  " russword=" Называть; Заклеймить;">
+      <TimeCreation time="15.02.2018 14:59:16" />
+      <TimeGoodAnswer time="18.12.2018 23:24:47" />
+      <Color color="Color [MintCream]" />
+    </Item>
+  </world>
+  <world word="To discourse  ">
+    <Item engword="To discourse  " russword=" Беседовать; Разговаривать; Говорить;">
+      <TimeCreation time="18.02.2018 12:53:43" />
+      <TimeGoodAnswer time="18.12.2018 23:24:56" />
+      <Color color="Color [LightGray]" />
+    </Item>
+  </world>
+  <world word="Scissors ">
+    <Item engword="Scissors " russword=" Ножницы;">
+      <TimeCreation time="26.02.2018 20:56:43" />
+      <TimeGoodAnswer time="19.12.2018 13:13:55" />
+      <Color color="Color [Green]" />
+    </Item>
+  </world>
+  <world word="To approach  ">
+    <Item engword="To approach  " russword=" Достичь; Достать;">
+      <TimeCreation time="26.02.2018 21:39:25" />
+      <TimeGoodAnswer time="19.12.2018 13:14:16" />
+      <Color color="Color [Honeydew]" />
+    </Item>
+    <Item engword="Approach " russword=" Приближение;">
+      <TimeCreation time="26.02.2018 21:39:25" />
+      <TimeGoodAnswer time="18.12.2018 23:25:09" />
+      <Color color="Color [Honeydew]" />
+    </Item>
+  </world>
+  <world word="To denote  ">
+    <Item engword="To denote  " russword=" Отмечать; Помечать;">
+      <TimeCreation time="28.02.2018 23:46:38" />
+      <TimeGoodAnswer time="18.12.2018 23:25:15" />
+      <Color color="Color [Linen]" />
+    </Item>
+  </world>
+  <world word="Inference ">
+    <Item engword="Inference " russword=" Умозаключение;">
+      <TimeCreation time="28.02.2018 23:52:32" />
+      <TimeGoodAnswer time="19.12.2018 13:14:31" />
+      <Color color="Color [LightBlue]" />
+    </Item>
+  </world>
+  <world word="Immense ">
+    <Item engword="Immense " russword=" Необъятный;">
+      <TimeCreation time="11.03.2018 11:29:22" />
+      <TimeGoodAnswer time="18.12.2018 23:25:25" />
+      <Color color="Color [Olive]" />
+    </Item>
+  </world>
+  <world word="To overcome  ">
+    <Item engword="To overcome  " russword=" Покорять;">
+      <TimeCreation time="11.03.2018 11:32:22" />
+      <TimeGoodAnswer time="18.12.2018 23:25:35" />
+      <Color color="Color [Black]" />
+    </Item>
+  </world>
+  <world word="Obstacle ">
+    <Item engword="Obstacle " russword=" Помеха;">
+      <TimeCreation time="11.03.2018 11:32:32" />
+      <TimeGoodAnswer time="19.12.2018 13:14:35" />
+      <Color color="Color [Blue]" />
+    </Item>
+  </world>
+  <world word="To crumble  ">
+    <Item engword="To crumble  " russword=" Крошить; Крошить; Крошиться;">
+      <TimeCreation time="11.03.2018 11:32:53" />
+      <TimeGoodAnswer time="18.12.2018 23:25:48" />
+      <Color color="Color [DarkSeaGreen]" />
+    </Item>
+  </world>
+  <world word="Adversity ">
+    <Item engword="Adversity " russword=" Несчастье;">
+      <TimeCreation time="11.03.2018 11:36:57" />
+      <TimeGoodAnswer time="19.12.2018 13:14:42" />
+      <Color color="Color [IndianRed]" />
+    </Item>
+  </world>
+  <world word="Perception ">
+    <Item engword="Perception " russword=" Восприятие;">
+      <TimeCreation time="11.03.2018 11:40:48" />
+      <TimeGoodAnswer time="18.12.2018 23:26:08" />
+      <Color color="Color [LightYellow]" />
+    </Item>
+  </world>
+  <world word="To perceive  ">
+    <Item engword="To perceive  " russword=" Воспринимать; Распознавать; Различать; Узнавать; Ощущать;">
+      <TimeCreation time="11.03.2018 11:42:20" />
+      <TimeGoodAnswer time="25.10.2018 15:39:44" />
+      <Color color="Color [DimGray]" />
+    </Item>
+  </world>
+  <world word="To perceive  ">
+    <Item engword="To perceive  " russword=" Воспринимать; Распознавать; Различать; Узнавать; Ощущать;">
+      <TimeCreation time="11.03.2018 11:42:22" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Lime]" />
+    </Item>
+  </world>
+  <world word="Tremendous ">
+    <Item engword="Tremendous " russword=" Страшный;">
+      <TimeCreation time="11.03.2018 11:44:04" />
+      <TimeGoodAnswer time="25.10.2018 15:39:49" />
+      <Color color="Color [DarkRed]" />
+    </Item>
+  </world>
+  <world word="Toughness ">
+    <Item engword="Toughness " russword=" Твёрдость;">
+      <TimeCreation time="11.03.2018 11:47:25" />
+      <TimeGoodAnswer time="25.10.2018 15:34:26" />
+      <Color color="Color [DarkBlue]" />
+    </Item>
+  </world>
+  <world word="To deserve  ">
+    <Item engword="To deserve  " russword=" Заслуживать;">
+      <TimeCreation time="11.03.2018 11:51:52" />
+      <TimeGoodAnswer time="25.10.2018 15:30:19" />
+      <Color color="Color [Lime]" />
+    </Item>
+  </world>
+  <world word="Obstacles ">
+    <Item engword="Obstacles " russword=" Помехи; Препятствия;">
+      <TimeCreation time="11.03.2018 11:53:28" />
+      <TimeGoodAnswer time="25.10.2018 15:34:32" />
+      <Color color="Color [Lavender]" />
+    </Item>
+  </world>
+  <world word="To keel over  ">
+    <Item engword="To keel over  " russword=" Опрокидывание;">
+      <TimeCreation time="11.03.2018 12:00:41" />
+      <TimeGoodAnswer time="25.10.2018 15:30:34" />
+      <Color color="Color [HotPink]" />
+    </Item>
+  </world>
+  <world word="Asset ">
+    <Item engword="Asset " russword=" Актив;">
+      <TimeCreation time="11.03.2018 12:01:28" />
+      <TimeGoodAnswer time="25.10.2018 15:34:35" />
+      <Color color="Color [DarkGoldenrod]" />
+    </Item>
+  </world>
+  <world />
+  <world />
+  <world word="Aspire ">
+    <Item engword="Aspire " russword=" Стремиться;">
+      <TimeCreation time="11.03.2018 12:03:59" />
+      <TimeGoodAnswer time="25.10.2018 15:44:00" />
+      <Color color="Color [DarkKhaki]" />
+    </Item>
+  </world>
+  <world word="Aspire ">
+    <Item engword="Aspire " russword=" Стремиться;">
+      <TimeCreation time="11.03.2018 12:04:01" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumSlateBlue]" />
+    </Item>
+  </world>
+  <world word="Excessive ">
+    <Item engword="Excessive " russword=" Чрезмерный;">
+      <TimeCreation time="11.03.2018 12:04:42" />
+      <TimeGoodAnswer time="25.10.2018 15:40:02" />
+      <Color color="Color [Linen]" />
+    </Item>
+  </world>
+  <world word="Argues ">
+    <Item engword="Argues " russword=" Аргументирует;">
+      <TimeCreation time="11.03.2018 12:08:03" />
+      <TimeGoodAnswer time="25.10.2018 15:55:33" />
+      <Color color="Color [Azure]" />
+    </Item>
+  </world>
+  <world word="Pursuit ">
+    <Item engword="Pursuit " russword=" Преследование;">
+      <TimeCreation time="11.03.2018 12:11:34" />
+      <TimeGoodAnswer time="25.10.2018 16:46:17" />
+      <Color color="Color [OliveDrab]" />
+    </Item>
+  </world>
+  <world word="Strengthened ">
+    <Item engword="Strengthened " russword=" Усиленный;">
+      <TimeCreation time="13.03.2018 20:45:44" />
+      <TimeGoodAnswer time="25.10.2018 15:44:23" />
+      <Color color="Color [GhostWhite]" />
+    </Item>
+  </world>
+  <world word="Subliminal ">
+    <Item engword="Subliminal " russword=" Подсознательный;">
+      <TimeCreation time="29.03.2018 15:38:51" />
+      <TimeGoodAnswer time="25.10.2018 15:44:32" />
+      <Color color="Color [Green]" />
+    </Item>
+  </world>
+  <world word="To trick  ">
+    <Item engword="To trick  " russword=" Изменять; Обмануть; Обманывать;">
+      <TimeCreation time="29.04.2018 16:29:06" />
+      <TimeGoodAnswer time="25.10.2018 15:41:03" />
+      <Color color="Color [LimeGreen]" />
+    </Item>
+  </world>
+  <world word="To put off  ">
+    <Item engword="To put off  " russword=" Откладывать;">
+      <TimeCreation time="30.04.2018 15:35:31" />
+      <TimeGoodAnswer time="25.10.2018 15:41:11" />
+      <Color color="Color [FloralWhite]" />
+    </Item>
+  </world>
+  <world word="To turn out  ">
+    <Item engword="To turn out  " russword=" Выпадать;">
+      <TimeCreation time="30.04.2018 15:37:28" />
+      <TimeGoodAnswer time="25.10.2018 16:53:24" />
+      <Color color="Color [Honeydew]" />
+    </Item>
+  </world>
+  <world word="To turn out  ">
+    <Item engword="To turn out  " russword=" Выпадать;">
+      <TimeCreation time="30.04.2018 15:37:29" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LawnGreen]" />
+    </Item>
+  </world>
+  <world word="To rule out  ">
+    <Item engword="To rule out  " russword=" Оттеснять;">
+      <TimeCreation time="30.04.2018 15:39:33" />
+      <TimeGoodAnswer time="25.10.2018 16:46:44" />
+      <Color color="Color [DarkGreen]" />
+    </Item>
+  </world>
+  <world word="Errand ">
+    <Item engword="Errand " russword=" Поручение; Поручения;">
+      <TimeCreation time="30.04.2018 15:46:10" />
+      <TimeGoodAnswer time="25.10.2018 16:53:55" />
+      <Color color="Color [MediumSpringGreen]" />
+    </Item>
+  </world>
+  <world word="To approach  ">
+    <Item engword="To approach  " russword=" Достичь; Доставать; Достигать; Приближать;">
+      <TimeCreation time="30.04.2018 15:57:33" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LemonChiffon]" />
+    </Item>
+  </world>
+  <world word="To tighten  ">
+    <Item engword="To tighten  " russword=" Привлекать; Укреплять; Собираться; Притягивать;">
+      <TimeCreation time="30.04.2018 15:58:57" />
+      <TimeGoodAnswer time="27.10.2018 17:37:48" />
+      <Color color="Color [MediumVioletRed]" />
+    </Item>
+  </world>
+  <world word="To put in  ">
+    <Item engword="To put in  " russword=" Давать; Прикладывать; Причаливать;">
+      <TimeCreation time="02.05.2018 18:13:25" />
+      <TimeGoodAnswer time="25.10.2018 16:54:18" />
+      <Color color="Color [LightGreen]" />
+    </Item>
+  </world>
+  <world word="To put in  ">
+    <Item engword="To put in  " russword=" Давать; Прикладывать; Причаливать;">
+      <TimeCreation time="02.05.2018 18:13:26" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightSeaGreen]" />
+    </Item>
+  </world>
+  <world word="Arose ">
+    <Item engword="Arose " russword=" Происходить;">
+      <TimeCreation time="07.05.2018 21:10:13" />
+      <TimeGoodAnswer time="27.10.2018 17:32:26" />
+      <Color color="Color [LightBlue]" />
+    </Item>
+  </world>
+  <world word="Stumble ">
+    <Item engword="Stumble " russword=" Спотыкаться;">
+      <TimeCreation time="20.05.2018 22:52:50" />
+      <TimeGoodAnswer time="25.10.2018 16:54:28" />
+      <Color color="Color [Ivory]" />
+    </Item>
+    <Item engword="To stumble  " russword=" Оступиться; Запинка;">
+      <TimeCreation time="20.05.2018 22:52:50" />
+      <TimeGoodAnswer time="25.10.2018 16:54:46" />
+      <Color color="Color [Ivory]" />
+    </Item>
+  </world>
+  <world word="Premise ">
+    <Item engword="Premise " russword=" Предпосылка;">
+      <TimeCreation time="20.05.2018 23:29:30" />
+      <TimeGoodAnswer time="27.10.2018 17:13:08" />
+      <Color color="Color [Navy]" />
+    </Item>
+  </world>
+  <world word="To enhance  ">
+    <Item engword="To enhance  " russword=" Исправлять; Улучшать; Повышать качество;">
+      <TimeCreation time="21.05.2018 23:20:23" />
+      <TimeGoodAnswer time="27.10.2018 17:13:20" />
+      <Color color="Color [Honeydew]" />
+    </Item>
+    <Item engword="Enhance " russword=" Усиливать;">
+      <TimeCreation time="21.05.2018 23:20:23" />
+      <TimeGoodAnswer time="27.10.2018 17:32:42" />
+      <Color color="Color [Honeydew]" />
+    </Item>
+  </world>
+  <world word="To enhance  ">
+    <Item engword="To enhance  " russword=" Исправлять; Улучшать; Повышать качество;">
+      <TimeCreation time="21.05.2018 23:20:24" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [NavajoWhite]" />
+    </Item>
+    <Item engword="Enhance " russword=" Усиливать;">
+      <TimeCreation time="21.05.2018 23:20:24" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [NavajoWhite]" />
+    </Item>
+  </world>
+  <world word="To wrap  ">
+    <Item engword="To wrap  " russword=" Обертывать; Укутывать; Упаковывать;">
+      <TimeCreation time="21.05.2018 23:28:08" />
+      <TimeGoodAnswer time="27.10.2018 17:13:38" />
+      <Color color="Color [Moccasin]" />
+    </Item>
+  </world>
+  <world word="Onus ">
+    <Item engword="Onus " russword=" Обязательство; Ответственность;">
+      <TimeCreation time="21.05.2018 23:33:31" />
+      <TimeGoodAnswer time="27.10.2018 17:13:45" />
+      <Color color="Color [LemonChiffon]" />
+    </Item>
+  </world>
+  <world word="To claim  ">
+    <Item engword="To claim  " russword=" Требовать;">
+      <TimeCreation time="21.05.2018 23:39:51" />
+      <TimeGoodAnswer time="27.10.2018 17:13:51" />
+      <Color color="Color [Orchid]" />
+    </Item>
+  </world>
+  <world word="Intent ">
+    <Item engword="Intent " russword=" Намерение;">
+      <TimeCreation time="22.05.2018 12:29:57" />
+      <TimeGoodAnswer time="27.10.2018 17:13:54" />
+      <Color color="Color [DarkSalmon]" />
+    </Item>
+  </world>
+  <world word="To reveal  ">
+    <Item engword="To reveal  " russword=" Высказывать;">
+      <TimeCreation time="22.05.2018 12:30:03" />
+      <TimeGoodAnswer time="27.10.2018 17:37:57" />
+      <Color color="Color [Green]" />
+    </Item>
+  </world>
+  <world word="Likewise ">
+    <Item engword="Likewise " russword=" Также;">
+      <TimeCreation time="22.05.2018 22:52:08" />
+      <TimeGoodAnswer time="27.10.2018 17:38:03" />
+      <Color color="Color [DarkTurquoise]" />
+    </Item>
+  </world>
+  <world word="Violated ">
+    <Item engword="Violated " russword=" Затронутый;">
+      <TimeCreation time="22.05.2018 22:57:53" />
+      <TimeGoodAnswer time="27.10.2018 17:38:17" />
+      <Color color="Color [LightSeaGreen]" />
+    </Item>
+  </world>
+  <world word="Violated ">
+    <Item engword="Violated " russword=" Затронутый;">
+      <TimeCreation time="22.05.2018 22:57:55" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Gold]" />
+    </Item>
+  </world>
+  <world word="Crutch ">
+    <Item engword="Crutch " russword=" Костыль;">
+      <TimeCreation time="22.05.2018 22:59:06" />
+      <TimeGoodAnswer time="27.10.2018 17:38:24" />
+      <Color color="Color [BlueViolet]" />
+    </Item>
+  </world>
+  <world word="Boon ">
+    <Item engword="Boon " russword=" Благо;">
+      <TimeCreation time="22.05.2018 23:23:37" />
+      <TimeGoodAnswer time="27.10.2018 17:33:16" />
+      <Color color="Color [GhostWhite]" />
+    </Item>
+  </world>
+  <world word="Violates ">
+    <Item engword="Violates " russword=" Нарушает;">
+      <TimeCreation time="28.05.2018 1:02:52" />
+      <TimeGoodAnswer time="27.10.2018 23:33:52" />
+      <Color color="Color [DeepPink]" />
+    </Item>
+  </world>
+  <world word="To interpret  ">
+    <Item engword="To interpret  " russword=" Толковать;">
+      <TimeCreation time="28.05.2018 1:25:21" />
+      <TimeGoodAnswer time="27.10.2018 17:38:32" />
+      <Color color="Color [FloralWhite]" />
+    </Item>
+  </world>
+  <world word="Intent ">
+    <Item engword="Intent " russword=" Намерение;">
+      <TimeCreation time="28.05.2018 21:40:48" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Bisque]" />
+    </Item>
+  </world>
+  <world word="Religiously ">
+    <Item engword="Religiously " russword=" Добросовестно;">
+      <TimeCreation time="29.05.2018 23:43:48" />
+      <TimeGoodAnswer time="27.10.2018 22:58:10" />
+      <Color color="Color [Fuchsia]" />
+    </Item>
+  </world>
+  <world word="Complexity ">
+    <Item engword="Complexity " russword=" Сложность;">
+      <TimeCreation time="30.05.2018 7:47:28" />
+      <TimeGoodAnswer time="27.10.2018 23:33:58" />
+      <Color color="Color [Gold]" />
+    </Item>
+  </world>
+  <world word="Downward ">
+    <Item engword="Downward " russword=" Спускающийся;">
+      <TimeCreation time="31.05.2018 15:47:25" />
+      <TimeGoodAnswer time="27.10.2018 22:58:27" />
+      <Color color="Color [OrangeRed]" />
+    </Item>
+  </world>
+  <world />
+  <world />
+  <world />
+  <world word="Personable ">
+    <Item engword="Personable " russword=" Представительный;">
+      <TimeCreation time="24.06.2018 13:15:50" />
+      <TimeGoodAnswer time="27.10.2018 22:58:33" />
+      <Color color="Color [Beige]" />
+    </Item>
+  </world>
+  <world word="To hesitate  ">
+    <Item engword="To hesitate  " russword=" Медлить; Колебаться;">
+      <TimeCreation time="24.06.2018 13:29:12" />
+      <TimeGoodAnswer time="27.10.2018 23:34:13" />
+      <Color color="Color [Lavender]" />
+    </Item>
+  </world>
+  <world word="To expose  ">
+    <Item engword="To expose  " russword=" Обнаруживать;">
+      <TimeCreation time="27.06.2018 10:26:03" />
+      <TimeGoodAnswer time="27.10.2018 23:35:53" />
+      <Color color="Color [Bisque]" />
+    </Item>
+  </world>
+  <world word="Belonging ">
+    <Item engword="Belonging " russword=" Принадлежность;">
+      <TimeCreation time="01.07.2018 19:14:56" />
+      <TimeGoodAnswer time="27.10.2018 23:35:58" />
+      <Color color="Color [Chartreuse]" />
+    </Item>
+  </world>
+  <world word="Board ">
+    <Item engword="Board " russword=" Доска;">
+      <TimeCreation time="03.10.2018 9:26:15" />
+      <TimeGoodAnswer time="27.10.2018 22:59:04" />
+      <Color color="Color [DarkSeaGreen]" />
+    </Item>
+    <Item engword="To board  " russword=" Грузить;">
+      <TimeCreation time="03.10.2018 9:26:15" />
+      <TimeGoodAnswer time="27.10.2018 23:36:10" />
+      <Color color="Color [DarkSeaGreen]" />
+    </Item>
+    <Item engword="To board a train  " russword=" Грузить;">
+      <TimeCreation time="03.10.2018 9:26:15" />
+      <TimeGoodAnswer time="27.10.2018 23:36:18" />
+      <Color color="Color [DarkSeaGreen]" />
+    </Item>
+  </world>
+  <world word="Growth ">
+    <Item engword="Growth " russword=" Рост;">
+      <TimeCreation time="07.10.2018 20:04:30" />
+      <TimeGoodAnswer time="27.10.2018 23:36:22" />
+      <Color color="Color [Olive]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To include  ">
+    <Item engword="To include  " russword=" Включать;">
+      <TimeCreation time="10.10.2018 0:24:12" />
+      <TimeGoodAnswer time="27.10.2018 23:38:17" />
+      <Color color="Color [Cyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Important ">
+    <Item engword="Important " russword=" Важный;">
+      <TimeCreation time="10.10.2018 0:24:21" />
+      <TimeGoodAnswer time="27.10.2018 23:38:23" />
+      <Color color="Color [Gold]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Resource ">
+    <Item engword="Resource " russword=" Ресурс;">
+      <TimeCreation time="10.10.2018 0:24:29" />
+      <TimeGoodAnswer time="27.10.2018 23:38:27" />
+      <Color color="Color [OldLace]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Resource ">
+    <Item engword="Resource " russword=" Ресурс;">
+      <TimeCreation time="10.10.2018 0:24:30" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Ancient ">
+    <Item engword="Ancient " russword=" Древние;">
+      <TimeCreation time="10.10.2018 0:24:43" />
+      <TimeGoodAnswer time="27.10.2018 23:38:34" />
+      <Color color="Color [DarkViolet]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Proper ">
+    <Item engword="Proper " russword=" Надлежащий;">
+      <TimeCreation time="10.10.2018 0:24:47" />
+      <TimeGoodAnswer time="27.10.2018 23:40:46" />
+      <Color color="Color [LightGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Decision ">
+    <Item engword="Decision " russword=" Решение;">
+      <TimeCreation time="10.10.2018 0:24:50" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightSkyBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Common ">
+    <Item engword="Common " russword=" Общий;">
+      <TimeCreation time="10.10.2018 0:25:00" />
+      <TimeGoodAnswer time="27.10.2018 23:40:49" />
+      <Color color="Color [OliveDrab]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Language ">
+    <Item engword="Language " russword=" Язык;">
+      <TimeCreation time="10.10.2018 0:25:03" />
+      <TimeGoodAnswer time="27.10.2018 23:43:45" />
+      <Color color="Color [Beige]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To overcome  ">
+    <Item engword="To overcome  " russword=" Покорять;">
+      <TimeCreation time="10.10.2018 0:25:09" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [NavajoWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Challenges ">
+    <Item engword="Challenges " russword=" Вызовы;">
+      <TimeCreation time="10.10.2018 0:25:18" />
+      <TimeGoodAnswer time="27.10.2018 23:47:49" />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Relevant ">
+    <Item engword="Relevant " russword=" Уместный;">
+      <TimeCreation time="10.10.2018 0:25:24" />
+      <TimeGoodAnswer time="27.10.2018 23:41:08" />
+      <Color color="Color [GreenYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Knowledge ">
+    <Item engword="Knowledge " russword=" Знание;">
+      <TimeCreation time="10.10.2018 0:25:29" />
+      <TimeGoodAnswer time="27.10.2018 23:43:58" />
+      <Color color="Color [Moccasin]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Marriage ">
+    <Item engword="Marriage " russword=" Брачный союз;">
+      <TimeCreation time="10.10.2018 0:25:35" />
+      <TimeGoodAnswer time="27.10.2018 23:47:53" />
+      <Color color="Color [DarkViolet]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Power ">
+    <Item engword="Power " russword=" Мощность;">
+      <TimeCreation time="10.10.2018 0:25:51" />
+      <TimeGoodAnswer time="27.10.2018 23:44:09" />
+      <Color color="Color [LightYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To view  ">
+    <Item engword="To view  " russword=" Рассматривать;">
+      <TimeCreation time="10.10.2018 0:26:03" />
+      <TimeGoodAnswer time="27.10.2018 23:44:16" />
+      <Color color="Color [Orange]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="View " russword=" Представление;">
+      <TimeCreation time="10.10.2018 0:26:03" />
+      <TimeGoodAnswer time="27.10.2018 23:44:18" />
+      <Color color="Color [Orange]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To discuss  ">
+    <Item engword="To discuss  " russword=" Обсуждать;">
+      <TimeCreation time="10.10.2018 0:26:13" />
+      <TimeGoodAnswer time="27.10.2018 23:59:28" />
+      <Color color="Color [Green]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Decision ">
+    <Item engword="Decision " russword=" Решение;">
+      <TimeCreation time="10.10.2018 0:26:23" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DodgerBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Experiences ">
+    <Item engword="Experiences " russword=" Опыт;">
+      <TimeCreation time="10.10.2018 17:38:22" />
+      <TimeGoodAnswer time="27.10.2018 23:59:34" />
+      <Color color="Color [MediumBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Education ">
+    <Item engword="Education " russword=" Образование;">
+      <TimeCreation time="10.10.2018 17:38:31" />
+      <TimeGoodAnswer time="27.10.2018 23:56:35" />
+      <Color color="Color [Black]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Abilities ">
+    <Item engword="Abilities " russword=" Способности;">
+      <TimeCreation time="10.10.2018 17:38:42" />
+      <TimeGoodAnswer time="27.10.2018 23:48:29" />
+      <Color color="Color [LightPink]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To understand  ">
+    <Item engword="To understand  " russword=" Понимать;">
+      <TimeCreation time="10.10.2018 17:38:50" />
+      <TimeGoodAnswer time="27.10.2018 23:56:47" />
+      <Color color="Color [MistyRose]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Studying ">
+    <Item engword="Studying " russword=" Изучение;">
+      <TimeCreation time="10.10.2018 17:38:59" />
+      <TimeGoodAnswer time="27.10.2018 23:48:50" />
+      <Color color="Color [Beige]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Trajectory ">
+    <Item engword="Trajectory " russword=" Траектория;">
+      <TimeCreation time="10.10.2018 17:39:05" />
+      <TimeGoodAnswer time="27.10.2018 23:56:53" />
+      <Color color="Color [LimeGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Special ">
+    <Item engword="Special " russword=" Особенный;">
+      <TimeCreation time="10.10.2018 17:39:10" />
+      <TimeGoodAnswer time="27.10.2018 23:56:57" />
+      <Color color="Color [LightGray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Special ">
+    <Item engword="Special " russword=" Особенный;">
+      <TimeCreation time="10.10.2018 17:39:13" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumSpringGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="University ">
+    <Item engword="University " russword=" Университет;">
+      <TimeCreation time="10.10.2018 17:39:16" />
+      <TimeGoodAnswer time="27.10.2018 23:57:01" />
+      <Color color="Color [GreenYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Interesting ">
+    <Item engword="Interesting " russword=" Интересный;">
+      <TimeCreation time="10.10.2018 17:39:29" />
+      <TimeGoodAnswer time="27.10.2018 23:59:38" />
+      <Color color="Color [LightPink]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Valuable ">
+    <Item engword="Valuable " russword=" Ценный;">
+      <TimeCreation time="10.10.2018 17:39:35" />
+      <TimeGoodAnswer time="27.10.2018 23:57:21" />
+      <Color color="Color [DarkRed]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Valuable ">
+    <Item engword="Valuable " russword=" Ценный;">
+      <TimeCreation time="10.10.2018 17:39:36" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkSlateGray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To consider  ">
+    <Item engword="To consider  " russword=" Обдумывать;">
+      <TimeCreation time="10.10.2018 17:39:45" />
+      <TimeGoodAnswer time="27.10.2018 23:59:45" />
+      <Color color="Color [DeepSkyBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Beneficial ">
+    <Item engword="Beneficial " russword=" Благотворный; Полезный;">
+      <TimeCreation time="10.10.2018 17:39:58" />
+      <TimeGoodAnswer time="27.10.2018 23:59:50" />
+      <Color color="Color [Brown]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Because ">
+    <Item engword="Because " russword=" Потому что;">
+      <TimeCreation time="10.10.2018 17:40:09" />
+      <TimeGoodAnswer time="27.10.2018 23:59:54" />
+      <Color color="Color [LightCoral]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world />
+  <world word="Solve ">
+    <Item engword="Solve " russword=" Решать;">
+      <TimeCreation time="10.10.2018 17:41:29" />
+      <TimeGoodAnswer time="28.10.2018 14:17:32" />
+      <Color color="Color [DarkTurquoise]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Atmosphere ">
+    <Item engword="Atmosphere " russword=" Атмосфера;">
+      <TimeCreation time="10.10.2018 17:41:39" />
+      <TimeGoodAnswer time="28.10.2018 0:02:46" />
+      <Color color="Color [Blue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Atmosphere ">
+    <Item engword="Atmosphere " russword=" Атмосфера;">
+      <TimeCreation time="10.10.2018 17:41:41" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumSpringGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Strategy ">
+    <Item engword="Strategy " russword=" Стратегия;">
+      <TimeCreation time="10.10.2018 17:41:48" />
+      <TimeGoodAnswer time="28.10.2018 13:48:39" />
+      <Color color="Color [MediumAquamarine]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Preparation ">
+    <Item engword="Preparation " russword=" Подготовка;">
+      <TimeCreation time="10.10.2018 17:41:59" />
+      <TimeGoodAnswer time="28.10.2018 13:48:45" />
+      <Color color="Color [Blue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Place ">
+    <Item engword="Place " russword=" Место;">
+      <TimeCreation time="10.10.2018 17:42:32" />
+      <TimeGoodAnswer time="28.10.2018 0:03:15" />
+      <Color color="Color [Khaki]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Difficult ">
+    <Item engword="Difficult " russword=" Трудный;">
+      <TimeCreation time="10.10.2018 17:42:38" />
+      <TimeGoodAnswer time="28.10.2018 0:03:20" />
+      <Color color="Color [DeepSkyBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To answer  ">
+    <Item engword="To answer  " russword=" Отвечать;">
+      <TimeCreation time="10.10.2018 17:42:52" />
+      <TimeGoodAnswer time="28.10.2018 0:03:26" />
+      <Color color="Color [FloralWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Answer " russword=" Ответ;">
+      <TimeCreation time="10.10.2018 17:42:52" />
+      <TimeGoodAnswer time="28.10.2018 0:03:32" />
+      <Color color="Color [FloralWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To sustain  ">
+    <Item engword="To sustain  " russword=" Поддерживать; Выносить;">
+      <TimeCreation time="12.10.2018 10:48:22" />
+      <TimeGoodAnswer time="28.10.2018 0:03:39" />
+      <Color color="Color [Bisque]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Eventually ">
+    <Item engword="Eventually " russword=" Наконец;">
+      <TimeCreation time="12.10.2018 10:48:30" />
+      <TimeGoodAnswer time="28.10.2018 0:03:45" />
+      <Color color="Color [Orange]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To distinguish  ">
+    <Item engword="To distinguish  " russword=" Различать; Отличать;">
+      <TimeCreation time="12.10.2018 10:48:40" />
+      <TimeGoodAnswer time="28.10.2018 14:20:20" />
+      <Color color="Color [GhostWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To demand  ">
+    <Item engword="To demand  " russword=" Требовать;">
+      <TimeCreation time="12.10.2018 10:48:49" />
+      <TimeGoodAnswer time="28.10.2018 13:49:09" />
+      <Color color="Color [DarkGray]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Demand " russword=" Спрос;">
+      <TimeCreation time="12.10.2018 10:48:49" />
+      <TimeGoodAnswer time="28.10.2018 13:49:13" />
+      <Color color="Color [DarkGray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Blind ">
+    <Item engword="Blind " russword=" Слепой;">
+      <TimeCreation time="12.10.2018 10:48:58" />
+      <TimeGoodAnswer time="28.10.2018 14:17:41" />
+      <Color color="Color [Ivory]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To trap  ">
+    <Item engword="To trap  " russword=" Запирать;">
+      <TimeCreation time="12.10.2018 10:49:07" />
+      <TimeGoodAnswer time="28.10.2018 14:17:46" />
+      <Color color="Color [MediumTurquoise]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Trap " russword=" Ловушка;">
+      <TimeCreation time="12.10.2018 10:49:07" />
+      <TimeGoodAnswer time="28.10.2018 14:17:48" />
+      <Color color="Color [MediumTurquoise]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To retire  ">
+    <Item engword="To retire  " russword=" Отступать;">
+      <TimeCreation time="12.10.2018 10:49:30" />
+      <TimeGoodAnswer time="28.10.2018 14:20:28" />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Retire " russword=" Уходить в отставку;">
+      <TimeCreation time="12.10.2018 10:49:30" />
+      <TimeGoodAnswer time="28.10.2018 14:29:26" />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To retire  ">
+    <Item engword="To retire  " russword=" Отступать;">
+      <TimeCreation time="12.10.2018 10:49:31" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Retire " russword=" Уходить в отставку;">
+      <TimeCreation time="12.10.2018 10:49:31" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Faith ">
+    <Item engword="Faith " russword=" Вера;">
+      <TimeCreation time="12.10.2018 10:49:38" />
+      <TimeGoodAnswer time="28.10.2018 14:20:37" />
+      <Color color="Color [Honeydew]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Tuple ">
+    <Item engword="Tuple " russword=" Кортеж;">
+      <TimeCreation time="12.10.2018 10:49:43" />
+      <TimeGoodAnswer time="28.10.2018 14:20:41" />
+      <Color color="Color [DodgerBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Impatience ">
+    <Item engword="Impatience " russword=" Нетерпение;">
+      <TimeCreation time="12.10.2018 10:50:03" />
+      <TimeGoodAnswer time="28.10.2018 14:29:32" />
+      <Color color="Color [GhostWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Exacerbate ">
+    <Item engword="Exacerbate " russword=" усугублять;">
+      <TimeCreation time="12.10.2018 10:50:09" />
+      <TimeGoodAnswer time="28.10.2018 14:37:36" />
+      <Color color="Color [Orange]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To pervade  ">
+    <Item engword="To pervade  " russword=" Проникать; Пронизывать;">
+      <TimeCreation time="12.10.2018 10:50:20" />
+      <TimeGoodAnswer time="28.10.2018 14:30:11" />
+      <Color color="Color [MediumSeaGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To reach  ">
+    <Item engword="To reach  " russword=" Достигать;">
+      <TimeCreation time="12.10.2018 10:50:37" />
+      <TimeGoodAnswer time="28.10.2018 14:32:43" />
+      <Color color="Color [OldLace]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To reach out  " russword=" Протягивать;">
+      <TimeCreation time="12.10.2018 10:50:37" />
+      <TimeGoodAnswer time="28.10.2018 14:30:20" />
+      <Color color="Color [OldLace]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Position ">
+    <Item engword="Position " russword=" Позиция;">
+      <TimeCreation time="12.10.2018 10:50:42" />
+      <TimeGoodAnswer time="28.10.2018 14:32:46" />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Punishment ">
+    <Item engword="Punishment " russword=" Наказание;">
+      <TimeCreation time="12.10.2018 10:50:53" />
+      <TimeGoodAnswer time="28.10.2018 14:51:24" />
+      <Color color="Color [LightGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To extend  ">
+    <Item engword="To extend  " russword=" Расширять;">
+      <TimeCreation time="12.10.2018 10:51:00" />
+      <TimeGoodAnswer time="28.10.2018 14:50:13" />
+      <Color color="Color [MediumSeaGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Suppress ">
+    <Item engword="Suppress " russword=" Подавить;">
+      <TimeCreation time="12.10.2018 10:51:38" />
+      <TimeGoodAnswer time="28.10.2018 14:38:46" />
+      <Color color="Color [Ivory]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To suppress  " russword=" Подавлять; Вытеснять;">
+      <TimeCreation time="12.10.2018 10:51:38" />
+      <TimeGoodAnswer time="28.10.2018 14:50:41" />
+      <Color color="Color [Ivory]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Outburst ">
+    <Item engword="Outburst " russword=" Взрыв;">
+      <TimeCreation time="12.10.2018 10:51:48" />
+      <TimeGoodAnswer time="28.10.2018 15:01:49" />
+      <Color color="Color [LightBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Revenge ">
+    <Item engword="Revenge " russword=" Месть;">
+      <TimeCreation time="12.10.2018 10:51:54" />
+      <TimeGoodAnswer time="28.10.2018 14:57:55" />
+      <Color color="Color [BlanchedAlmond]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Sophisticated ">
+    <Item engword="Sophisticated " russword=" Сложный; Изощренный;">
+      <TimeCreation time="12.10.2018 10:52:12" />
+      <TimeGoodAnswer time="28.10.2018 15:06:00" />
+      <Color color="Color [Chocolate]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Initiative ">
+    <Item engword="Initiative " russword=" Инициативный;">
+      <TimeCreation time="12.10.2018 10:52:24" />
+      <TimeGoodAnswer time="28.10.2018 15:39:22" />
+      <Color color="Color [Khaki]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Professionals ">
+    <Item engword="Professionals " russword=" Профессионалы;">
+      <TimeCreation time="12.10.2018 10:52:36" />
+      <TimeGoodAnswer time="28.10.2018 15:34:01" />
+      <Color color="Color [CornflowerBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To determine  ">
+    <Item engword="To determine  " russword=" Устанавливать; Определять;">
+      <TimeCreation time="12.10.2018 10:53:01" />
+      <TimeGoodAnswer time="28.10.2018 15:34:54" />
+      <Color color="Color [DarkSalmon]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Advantages ">
+    <Item engword="Advantages " russword=" Преимущества; Превосходства;">
+      <TimeCreation time="14.10.2018 18:51:21" />
+      <TimeGoodAnswer time="30.10.2018 12:59:54" />
+      <Color color="Color [MediumBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Difficult ">
+    <Item engword="Difficult " russword=" Трудный;">
+      <TimeCreation time="14.10.2018 18:51:26" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Black]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Different ">
+    <Item engword="Different " russword=" Различный;">
+      <TimeCreation time="14.10.2018 18:51:33" />
+      <TimeGoodAnswer time="30.10.2018 12:56:15" />
+      <Color color="Color [MidnightBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Dangerous ">
+    <Item engword="Dangerous " russword=" Опасный;">
+      <TimeCreation time="14.10.2018 18:51:48" />
+      <TimeGoodAnswer time="30.10.2018 12:56:21" />
+      <Color color="Color [LightYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Specific ">
+    <Item engword="Specific " russword=" Специфический;">
+      <TimeCreation time="14.10.2018 18:51:53" />
+      <TimeGoodAnswer time="30.10.2018 12:59:59" />
+      <Color color="Color [FloralWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To imagine  ">
+    <Item engword="To imagine  " russword=" Представлять; Вообразить; Воображать; Вообразить;">
+      <TimeCreation time="14.10.2018 18:52:03" />
+      <TimeGoodAnswer time="30.10.2018 14:04:47" />
+      <Color color="Color [LightGray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Drawback ">
+    <Item engword="Drawback " russword=" Недостаток;">
+      <TimeCreation time="14.10.2018 18:52:17" />
+      <TimeGoodAnswer time="30.10.2018 13:00:14" />
+      <Color color="Color [NavajoWhite]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Drawback ">
+    <Item engword="Drawback " russword=" Недостаток;">
+      <TimeCreation time="14.10.2018 18:52:19" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkSlateBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Regard ">
+    <Item engword="Regard " russword=" Уважение;">
+      <TimeCreation time="14.10.2018 20:41:36" />
+      <TimeGoodAnswer time="30.10.2018 13:00:19" />
+      <Color color="Color [DarkGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To regard  " russword=" Принимать во внимание; Обращать внимание;">
+      <TimeCreation time="14.10.2018 20:41:36" />
+      <TimeGoodAnswer time="30.10.2018 13:00:23" />
+      <Color color="Color [DarkGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Regard ">
+    <Item engword="Regard " russword=" Уважение;">
+      <TimeCreation time="14.10.2018 20:41:38" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Maroon]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To regard  " russword=" Принимать во внимание; Обращать внимание;">
+      <TimeCreation time="14.10.2018 20:41:38" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Maroon]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To terminate  ">
+    <Item engword="To terminate  " russword=" Заканчивать;">
+      <TimeCreation time="14.10.2018 20:41:46" />
+      <TimeGoodAnswer time="30.10.2018 13:00:29" />
+      <Color color="Color [Cyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Position ">
+    <Item engword="Position " russword=" Позиция;">
+      <TimeCreation time="14.10.2018 20:41:55" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkRed]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Organization ">
+    <Item engword="Organization " russword=" Организация;">
+      <TimeCreation time="14.10.2018 20:41:59" />
+      <TimeGoodAnswer time="30.10.2018 13:00:34" />
+      <Color color="Color [Black]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Propitiate ">
+    <Item engword="Propitiate " russword=" Умиротворять;">
+      <TimeCreation time="14.10.2018 20:42:04" />
+      <TimeGoodAnswer time="30.10.2018 13:59:35" />
+      <Color color="Color [Black]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Forecast ">
+    <Item engword="Forecast " russword=" Предсказание; Прогноз;">
+      <TimeCreation time="15.10.2018 10:31:51" />
+      <TimeGoodAnswer time="30.10.2018 13:59:40" />
+      <Color color="Color [BlueViolet]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Laptop ">
+    <Item engword="Laptop " russword=" Ноутбук;">
+      <TimeCreation time="16.10.2018 7:46:22" />
+      <TimeGoodAnswer time="30.10.2018 13:59:44" />
+      <Color color="Color [LightYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Dissatisfaction ">
+    <Item engword="Dissatisfaction " russword=" Недовольство;">
+      <TimeCreation time="16.10.2018 7:46:26" />
+      <TimeGoodAnswer time="30.10.2018 13:59:53" />
+      <Color color="Color [LightCyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Addition ">
+    <Item engword="Addition " russword=" Сложение;">
+      <TimeCreation time="16.10.2018 7:46:39" />
+      <TimeGoodAnswer time="30.10.2018 13:59:57" />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Addition ">
+    <Item engword="Addition " russword=" Сложение;">
+      <TimeCreation time="16.10.2018 7:46:40" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Cyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Quick ">
+    <Item engword="Quick " russword=" Быстрый;">
+      <TimeCreation time="16.10.2018 7:47:10" />
+      <TimeGoodAnswer time="28.10.2018 15:35:15" />
+      <Color color="Color [DarkSlateBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Recommendations ">
+    <Item engword="Recommendations " russword=" Рекомендации;">
+      <TimeCreation time="16.10.2018 7:47:19" />
+      <TimeGoodAnswer time="30.10.2018 14:00:02" />
+      <Color color="Color [BlueViolet]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To purchase  ">
+    <Item engword="To purchase  " russword=" Покупать;">
+      <TimeCreation time="16.10.2018 7:47:43" />
+      <TimeGoodAnswer time="30.10.2018 14:00:14" />
+      <Color color="Color [Indigo]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Purchase " russword=" Покупка;">
+      <TimeCreation time="16.10.2018 7:47:43" />
+      <TimeGoodAnswer time="30.10.2018 14:00:19" />
+      <Color color="Color [Indigo]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Explain ">
+    <Item engword="Explain " russword=" Объяснять; Объяснять;">
+      <TimeCreation time="16.10.2018 7:47:58" />
+      <TimeGoodAnswer time="30.10.2018 14:00:23" />
+      <Color color="Color [LightGray]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To explain  " russword=" Объяснять;">
+      <TimeCreation time="16.10.2018 7:47:58" />
+      <TimeGoodAnswer time="30.10.2018 14:04:53" />
+      <Color color="Color [LightGray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Payment ">
+    <Item engword="Payment " russword=" Вознаграждение;">
+      <TimeCreation time="16.10.2018 7:48:15" />
+      <TimeGoodAnswer time="30.10.2018 14:04:56" />
+      <Color color="Color [LemonChiffon]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Emergencies ">
+    <Item engword="Emergencies " russword=" Крайности;">
+      <TimeCreation time="16.10.2018 10:55:32" />
+      <TimeGoodAnswer time="30.10.2018 14:05:05" />
+      <Color color="Color [DarkBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Absence ">
+    <Item engword="Absence " russword=" Отсутствие;">
+      <TimeCreation time="16.10.2018 10:55:53" />
+      <TimeGoodAnswer time="28.10.2018 15:35:40" />
+      <Color color="Color [Blue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Neutral ">
+    <Item engword="Neutral " russword=" Нейтральный;">
+      <TimeCreation time="18.10.2018 17:54:24" />
+      <TimeGoodAnswer time="28.10.2018 15:39:27" />
+      <Color color="Color [Green]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Attraction ">
+    <Item engword="Attraction " russword=" Привлекательность; Достопримечательность;">
+      <TimeCreation time="20.10.2018 2:02:13" />
+      <TimeGoodAnswer time="28.10.2018 15:39:33" />
+      <Color color="Color [MistyRose]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Medicine ">
+    <Item engword="Medicine " russword=" Медицина;">
+      <TimeCreation time="24.10.2018 12:47:42" />
+      <TimeGoodAnswer time="28.10.2018 15:39:37" />
+      <Color color="Color [Crimson]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Medicine ">
+    <Item engword="Medicine " russword=" Медицина;">
+      <TimeCreation time="24.10.2018 12:47:44" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumAquamarine]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Nowadays ">
+    <Item engword="Nowadays " russword=" В наше время;">
+      <TimeCreation time="24.10.2018 12:48:07" />
+      <TimeGoodAnswer time="28.10.2018 15:39:42" />
+      <Color color="Color [ForestGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Achieved ">
+    <Item engword="Achieved " russword=" Достигнутый;">
+      <TimeCreation time="24.10.2018 12:48:12" />
+      <TimeGoodAnswer time="30.10.2018 14:09:34" />
+      <Color color="Color [DarkSalmon]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Than ">
+    <Item engword="Than " russword=" Чем;">
+      <TimeCreation time="24.10.2018 12:48:24" />
+      <TimeGoodAnswer time="28.10.2018 15:39:53" />
+      <Color color="Color [DarkOrchid]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Past ">
+    <Item engword="Past " russword=" Прошлое;">
+      <TimeCreation time="24.10.2018 12:48:31" />
+      <TimeGoodAnswer time="30.10.2018 14:05:20" />
+      <Color color="Color [DarkRed]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Manage ">
+    <Item engword="Manage " russword=" Управлять;">
+      <TimeCreation time="24.10.2018 12:49:09" />
+      <TimeGoodAnswer time="28.10.2018 15:39:59" />
+      <Color color="Color [DarkBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To manage  " russword=" Возглавлять;">
+      <TimeCreation time="24.10.2018 12:49:09" />
+      <TimeGoodAnswer time="28.10.2018 15:40:04" />
+      <Color color="Color [DarkBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To communicate  ">
+    <Item engword="To communicate  " russword=" Сообщать; Передавать;">
+      <TimeCreation time="29.10.2018 23:44:25" />
+      <TimeGoodAnswer time="30.10.2018 14:05:27" />
+      <Color color="Color [LightGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Distance ">
+    <Item engword="Distance " russword=" Расстояние;">
+      <TimeCreation time="29.10.2018 23:44:30" />
+      <TimeGoodAnswer time="30.10.2018 14:05:31" />
+      <Color color="Color [DarkSlateBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Acceptable ">
+    <Item engword="Acceptable " russword=" Приемлемый;">
+      <TimeCreation time="29.10.2018 23:44:38" />
+      <TimeGoodAnswer time="30.10.2018 14:09:40" />
+      <Color color="Color [LightSeaGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Access ">
+    <Item engword="Access " russword=" Доступ;">
+      <TimeCreation time="29.10.2018 23:44:47" />
+      <TimeGoodAnswer time="30.10.2018 14:05:59" />
+      <Color color="Color [DarkOrchid]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To receive  ">
+    <Item engword="To receive  " russword=" Принимать;">
+      <TimeCreation time="29.10.2018 23:45:16" />
+      <TimeGoodAnswer time="30.10.2018 14:09:45" />
+      <Color color="Color [GreenYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Apartments ">
+    <Item engword="Apartments " russword=" Комнаты;">
+      <TimeCreation time="29.10.2018 23:45:34" />
+      <TimeGoodAnswer time="30.10.2018 14:09:49" />
+      <Color color="Color [CornflowerBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To message  ">
+    <Item engword="To message  " russword=" Извещать; Сообщать;">
+      <TimeCreation time="29.10.2018 23:45:59" />
+      <TimeGoodAnswer time="30.10.2018 14:09:55" />
+      <Color color="Color [LightSkyBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Message " russword=" Сообщение;">
+      <TimeCreation time="29.10.2018 23:45:59" />
+      <TimeGoodAnswer time="30.10.2018 14:06:35" />
+      <Color color="Color [LightSkyBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To message  ">
+    <Item engword="To message  " russword=" Извещать; Сообщать;">
+      <TimeCreation time="29.10.2018 23:45:59" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LimeGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="Message " russword=" Сообщение;">
+      <TimeCreation time="29.10.2018 23:45:59" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LimeGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Significant ">
+    <Item engword="Significant " russword=" Многозначительный;">
+      <TimeCreation time="06.11.2018 11:40:20" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Remuneration ">
+    <Item engword="Remuneration " russword=" Вознаграждение;">
+      <TimeCreation time="06.11.2018 11:40:42" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [BlanchedAlmond]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Disappointment ">
+    <Item engword="Disappointment " russword=" Разочарование;">
+      <TimeCreation time="06.11.2018 11:41:46" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Blue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Therefore ">
+    <Item engword="Therefore " russword=" Поэтому;">
+      <TimeCreation time="06.11.2018 11:41:53" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LawnGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To designate  ">
+    <Item engword="To designate  " russword=" Назначать;">
+      <TimeCreation time="06.11.2018 11:43:39" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [DarkOliveGreen]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Remuneration ">
+    <Item engword="Remuneration " russword=" Вознаграждение;">
+      <TimeCreation time="06.11.2018 11:43:46" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [GreenYellow]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Prosperity ">
+    <Item engword="Prosperity " russword=" Успех;">
+      <TimeCreation time="06.11.2018 11:44:11" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Gray]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Executive ">
+    <Item engword="Executive " russword=" Исполнительная власть;">
+      <TimeCreation time="06.11.2018 11:46:20" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightCyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Furthermore ">
+    <Item engword="Furthermore " russword=" Кроме того;">
+      <TimeCreation time="06.11.2018 11:46:53" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightCyan]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To thrive  ">
+    <Item engword="To thrive  " russword=" Процветать;">
+      <TimeCreation time="06.11.2018 11:47:09" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Brown]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="To allocate  ">
+    <Item engword="To allocate  " russword=" Выделять;">
+      <TimeCreation time="06.11.2018 11:47:22" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [BlanchedAlmond]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Budget ">
+    <Item engword="Budget " russword=" Бюджет;">
+      <TimeCreation time="06.11.2018 11:47:36" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumTurquoise]" />
+      <SuccessCount count="0" />
+    </Item>
+    <Item engword="To budget  " russword=" Намечать;">
+      <TimeCreation time="06.11.2018 11:47:36" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [MediumTurquoise]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Obscene ">
+    <Item engword="Obscene " russword=" Непристойный;">
+      <TimeCreation time="06.11.2018 11:48:14" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Compensation ">
+    <Item engword="Compensation " russword=" Возмещение;">
+      <TimeCreation time="06.11.2018 11:48:26" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Firebrick]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Adopting ">
+    <Item engword="Adopting " russword=" Принятие;">
+      <TimeCreation time="06.11.2018 11:48:59" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Beige]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Adopting ">
+    <Item engword="Adopting " russword=" Принятие;">
+      <TimeCreation time="06.11.2018 11:49:00" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [Indigo]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>
+  <world word="Enthusiasm ">
+    <Item engword="Enthusiasm " russword=" Энтузиазм;">
+      <TimeCreation time="21.11.2018 14:00:52" />
+      <TimeGoodAnswer time=" " />
+      <Color color="Color [LightSteelBlue]" />
+      <SuccessCount count="0" />
+    </Item>
+  </world>  
 </root>

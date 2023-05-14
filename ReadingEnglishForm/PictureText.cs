@@ -17,9 +17,11 @@ namespace ReadingEnglishForm
         private Graphics g;
 
         public List<Word> Words= new List<Word>();
-        public int Width1 = 600;
-        public int Height1 = 5400;
+        public int Width1 = 800;
+        public int Height1 = 25400;
         public bool drawRectangl = true;
+        public int CountWords = 0;
+        public List<Color> Colors=new List<Color>(); 
 
 
         public PictureText()
@@ -32,46 +34,48 @@ namespace ReadingEnglishForm
 
         public void MouseMoved()
         {
-            if(Words.Count==0)return;
+            if (Words.Count == 0) return;
+            Draw();
+        }
+
+        public void Draw()
+        {
             g.Clear(Color.White);
             PointF drawPoint = new PointF(10.0F, 0.0F);
             Font drawFont = new Font("Arial", 12);
             SolidBrush drawBrush = new SolidBrush(Color.Black);
-            var countX = 0;
-            var countY = 0;
-            foreach (var word in Words)
+            for (int i = 0; i < Words.Count; i++)
             {
-               
-
+                var word = Words[i];
+                if(Colors.Count>i) drawBrush = new SolidBrush(Colors[i]);
                 drawPoint.X = word.StartX;
                 drawPoint.Y = word.StartY;
-                //var listlatters = word.ToCharArray().ToList();
-                //countY = Words.Last().StartY;
-                //foreach (var latter in listlatters)
-                //{
-                //    g.DrawString(latter.ToString(), drawFont, drawBrush, drawPoint);
-                //    drawPoint.X +=(int)g.MeasureString(latter.ToString(),drawFont).Width-1;
-                //}
-                //foreach (var latter in listlatters)
-                //{
+                if (word.IsUpper) drawFont = new Font("Arial", 12, FontStyle.Bold);
+                if (!word.IsUpper && drawFont.Bold) drawFont = new Font("Arial", 12);
                 g.DrawString(word.RelVal, drawFont, drawBrush, drawPoint);
-            //    drawPoint.X += (int)g.MeasureString(word.Value, drawFont).Width - 1;
-              
-              
-
-              //  g.DrawRectangle(new Pen(Brushes.Red), Words.Last().StartX, Words.Last().StartY, lenthX, lenthY);
-
-                //}
-
-                //countX = (int)drawPoint.X + 2 * Word.size;
-
-
             }
-        
+           
+        }
 
-    }
 
-        public void WriteListString(List<string> strings,bool Clear)
+       
+
+
+
+        private void addToCount(List<string> words)
+        {
+            foreach (var word in words)
+            {
+                if (word.Count() > 0 && word != "the")
+                {
+                    CountWords ++;
+                }
+               
+            }
+           
+        }
+
+        public void InsertWordsInMemory(List<string> strings,bool Clear)
         {
             g.Clear(Color.White);
             if(Clear)Words.Clear();
@@ -91,73 +95,66 @@ namespace ReadingEnglishForm
             var steph = (int)g.MeasureString("A", drawFont).Height;
             var county = 0;
             var max = 0;
-
+            var l = 0;
             foreach (var str in strings)
             {
-                var l=  (int)g.MeasureString(str, drawFont).Width;
-                if (l > max)
-                {
-                    max = l;
-                }
+                 l+=  (int)g.MeasureString(str, drawFont).Width;
+               
             }
-
-
-            CurMap = new Bitmap(max, strings.Count*2*steph);
+            var height1=l*12*steph/(Width1);
+            if (height1 == 0 || Width1 == 0) return;
+            CurMap = new Bitmap(Width1, height1);
             g = Graphics.FromImage(CurMap);
 
             foreach (var str in strings)
             {
+                bool isUpper = false;
+               
                 var words = str.Split(new char[] { ' '}, StringSplitOptions.RemoveEmptyEntries).ToList();
+                addToCount(words);
                 var last = 0;
-                g.DrawString(str, drawFont, drawBrush, drawPoint);
+               // g.DrawString(str, drawFont, drawBrush, drawPoint);
 
                 drawPoint.X = 0;
+                var delta = 0;
+                if (!words.Contains("."))
+                {
+                    int count = 0;
+                    foreach (var word in words)
+                    {
+                        if (char.IsUpper(word[0])) count++;
+                    }
+                    if (count >= words.Count-2)
+                    {
+                        isUpper = true;
+                    }
+                }
+                
                 foreach (var word in words)
                 {
                     var start = str.IndexOf(word, last);
                     last = start;
-                    drawPoint.X = start*stepw;
+                    drawPoint.X = (start)*stepw-delta;
                    
                     var length = (int)g.MeasureString(word.ToString(), drawFont).Width - 1;
+
+                    if (drawPoint.X+length > Width1)
+                    {
+                        
+                        county++;
+                        drawPoint.Y = county * 3 * steph / 2;
+                        delta+= (int)drawPoint.X;
+                        drawPoint.X = 0;
+                    }
+
                     Words.Add(new Word(word, (int)drawPoint.X, (int)drawPoint.Y, length,steph));
-                    
+                    Words.Last().IsUpper = isUpper;
                 }
                 county++;
                 drawPoint.Y = county *3* steph/2;
              
-                //foreach (var word in words)
-                //{
-                //    Words.Add(new Word(word,countX,countY));
-
-                //    drawPoint.X = Words.Last().StartX;
-                //    drawPoint.Y = Words.Last().StartY;
-
-                //    //var listlatters = word.ToCharArray().ToList();
-
-                //    countY = Words.Last().StartY;
-                //    //foreach (var latter in listlatters)
-                //    //{
-                //    //    g.DrawString(latter.ToString(), drawFont, drawBrush, drawPoint);
-                //    //    drawPoint.X +=(int)g.MeasureString(latter.ToString(),drawFont).Width-1;
-                //    //}
-                //    //foreach (var latter in listlatters)
-                //    //{
-                //    g.DrawString(word, drawFont, drawBrush, drawPoint);
-                //    drawPoint.X += (int)g.MeasureString(word.ToString(), drawFont).Width - 1;
-                //    Words.Last().EndX = (int)drawPoint.X;
-                //    var lenthX = Words.Last().EndX - Words.Last().StartX;
-                //    var lenthY = Words.Last().EndY - Words.Last().StartY;
-
-                //    g.DrawRectangle(new Pen(Brushes.Red), Words.Last().StartX, Words.Last().StartY, lenthX, lenthY);
-
-                //    //}
-
-                //    countX = (int)drawPoint.X + 2 * Word.size;
-
-
-                //}
             }
-            TranslatedCurMap= new Bitmap((Bitmap)CurMap.Clone());
+         //   TranslatedCurMap= new Bitmap((Bitmap)CurMap.Clone());
             this.Image = CurMap;
         }
 

@@ -82,3 +82,6 @@ justify - оправдывать
 pass - проход, переход, пас, передовать,пасовать
 passable - проходимый
 puffy - опухший, дутый
+falsely evicted - ложно выселены
+to yawn - зевать
+to get rid off избавляться

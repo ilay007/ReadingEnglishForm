@@ -1,0 +1,24 @@
+Brian Koberlein
+What you need to build a basic pinhole camera.
+
+As we prepare for the Great American Eclipse, you might have your eclipse glasses ready. If not, another great way to view the eclipse is with a pinhole camera. They are extremely easy to make, and you just need a cardboard box, some tin foil, scissors, tape and a toothpick.
+
+Brian Koberlein
+Two holes are cut into the box. One for the pinhole, and one for viewing. The pinhole should be placed on the short side of the box.
+
+The basic idea is to allow light to shine through a small opening. The hole acts as the lens of your camera. It doesn't focus the light like a regular camera does, but since the hole is small it creates an image of your light source (like the Sun). Since light travels in a straight line, light coming from the left of the hole will reach the inside of the box slightly to the right. Light from the right will travel through the hole and to the right, and so on. As a result and image will appear on the inside of the box.
+
+
+Wikipedia
+Schematic of a pinhole camera.
+
+Pinhole cameras are an ancient technology. They were known by the Chinese since 500 BCE. Arabic astronomer Ibn al-Haytham first used one to view an eclipses around 1000 CE. The first modern cameras were also based upon pinhole cameras. They aren't used as much today because of a major drawback. The sharpness of your image depends upon the size of your pinhole. The smaller the hole, the sharper the image. But a smaller hole also means the image is more dim. For everyday images this means a camera would need a long exposure time to get a decent image. Modern lens cameras create brighter images. But for a solar eclipse the pinhole cameras are perfect. The Sun is so bright that you need a much dimmer image to see it.
+
+Brian Koberlein
+An image of the Sun and nearby clouds as seen through a pinhole camera.
+
+To make a pinhole camera, any size box will do, but a larger box will work best. You'll need to cut at least one square hole on the short side of the box. You then tape tin foil over the hole, and use a toothpick to poke a small hole in the foil. When you face the pinhole side of your box toward the Sun, the image will appear on the far side of the interior. To see your image you need a viewing hole. If your box is big enough you can cut it on the same side as your pinhole, but for smaller boxes you can cut it on an adjacent side. Some folks use big boxes and cut a hole in the bottom so kids can place the whole box on their heads. Any way works, as long as you don't block the light coming through the pinhole.
+
+You should build your box before the day of the eclipse, just to make sure it works well. It's a great project for kids, and a way to teach them a little about optics before the main event. Regardless of your design, stay safe and have fun on eclipse day!
+
+Brian Koberlein is an astrophysicist, professor and author. You can find more of his writing at One Universe at a Time.

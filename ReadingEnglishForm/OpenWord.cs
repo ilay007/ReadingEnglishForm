@@ -32,6 +32,7 @@ namespace ReadingEnglishForm
 
           
         }
+        PointF drawPoint = new PointF(10.0F, 0.0F);
 
         public void WriteListString(Word translatedword)
         {
@@ -67,7 +68,7 @@ namespace ReadingEnglishForm
             g.Clear(Color.White);
 
             // Create point for upper-left corner of drawing.
-            PointF drawPoint = new PointF(10.0F, 0.0F);
+            drawPoint = new PointF(10.0F, 0.0F);
             var countX = 0;
             var countY = 0;
             g.DrawString(translatedword.Value, drawFont, drawBrushWord, drawPoint);
@@ -84,16 +85,27 @@ namespace ReadingEnglishForm
                 g.DrawString(word, drawFont, drawBrush, drawPoint);
                 CurWordList.Add(new WordInRectangle(word, new Rectangle((int)drawPoint.X, (int)drawPoint.Y, (int)g.MeasureString(word.ToString(), drawFont).Width - 1, 2 * Word.size)));
                 drawPoint.Y = (int)drawPoint.Y + 2 * Word.size;
-               
-
-
             }
+            drawPoint.Y += 2*Word.size;
+            g.DrawRectangle(new Pen(Color.Gold),drawPoint.X,drawPoint.Y, 65, Word.size);
+
             pictureBox1.Image = CurMap;
         }
 
-        private void SaveToDictionary_MouseClick(object sender, MouseEventArgs e)
+      
+
+
+      
+
+        public void AddToEDictionary()
         {
-            if (Button.PlaceWord.Contains(e.X,e.Y))
+            XmlHandler.GetInstanse().CreateNewWord(WordsForEDictionary);
+
+        }
+
+        private void pictureBox1_Click(object sender, MouseEventArgs e)
+        {
+            if (Button.PlaceWord.Contains(e.X, e.Y))
             {
 
                 //using (var wr = new StreamWriter(VocabularName))
@@ -110,13 +122,18 @@ namespace ReadingEnglishForm
                 //    wr.Close();
                 //}
                 //return;
+                var word = CurWordList[0];
+                var data = word.WordValue.Split(new char[] { '-' }, StringSplitOptions.RemoveEmptyEntries);
+                if (Word.Vocabulary.ContainsKey(data[0].ToLower())) return;
+
+                    AddToEDictionary();
+                    CurWordList.Clear();
                
-                AddToEDictionary();
-                CurWordList.Clear();
+                 
             }
             foreach (var word in CurWordList)
             {
-                if (!word.Rectangle.Contains(new Point(e.X, e.Y)))continue;
+                if (!word.Rectangle.Contains(new Point(e.X, e.Y))) continue;
 
                 // g.FillEllipse(new Pen(Color.Red),word.Rectangle.X-20,word.Rectangle.Y+5,8,8);
                 SolidBrush drawBrushWord = new SolidBrush(Color.Red);
@@ -135,73 +152,17 @@ namespace ReadingEnglishForm
 
         }
 
+        public string NewTranslation = "";
 
-        public List<string> GetColors()
+        private void OpenWord_KeyPress(object sender, KeyPressEventArgs e)
         {
-            var lstring = new List<string>();
-            var count = 0;
-            foreach (KnownColor kc in Enum.GetValues(typeof(KnownColor)))
-            {
-                if (count > 30 && count < 130)
-                {
-                    lstring.Add(kc.ToString());
-                }
-                count++;
-            }
-            return lstring;
-        } 
+            Font drawFont = new Font("Arial", 12);
 
-        public void AddToEDictionary()
-        {
-            var Colors = GetColors();
-            var namefile = "vocabulary.xml";
-            XDocument doc1 = XDocument.Load(namefile);
-            XElement school = doc1.Element("root");
-            var count = 0;
-            XElement oneword = new XElement("world"); 
-            foreach (var word in WordsForEDictionary)
-            {
-                if (Word.EDictionary.ContainsKey(word.Key)) continue;
-                if (count == 0)
-                {
-                  
-                    oneword.Add(new XAttribute("word", word.Key));
-                  //  continue;
-                }
-
-                var time = new XElement("TimeCreation");
-                time.Add(new XAttribute("time", DateTime.Now.ToString()));
-
-                var timegoodanswer= new XElement("TimeGoodAnswer");
-                timegoodanswer.Add(new XAttribute("time", " "));
-
-
-
-                var n = new Random().Next(0, Colors.Count - 1);
-                var color = new XElement("Color");
-                color.Add(new XAttribute("color", Color.FromName(Colors[n])));
-
-
-                var rusword = "";
-                foreach (var val in word.Value)
-                {
-                    rusword += val + ";";
-                }
-
-                var Item = new XElement("Item");
-                Item.Add(new XAttribute("engword", word.Key));
-                Item.Add(new XAttribute("russword", rusword));
-                Item.Add(time);
-                Item.Add(timegoodanswer);
-                Item.Add(color);
-
-                oneword.Add(Item);
-               
-                count++;
-            }
-            school.Add(oneword);
-            doc1.Save(namefile);
-
+          
+            SolidBrush drawBrush = new SolidBrush(Color.Black);
+            NewTranslation=NewTranslation+e.KeyChar.ToString();
+            g.DrawString(NewTranslation, drawFont, drawBrush, drawPoint);
+            pictureBox1.Image = CurMap;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

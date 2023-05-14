@@ -12,9 +12,10 @@ namespace ReadingEnglishForm
         public static int size;
         public static Dictionary<string, InfoWord> EDictionary;//=new Dictionary<string, List<string>>();
         public static Dictionary<string, VocabularyInfoWord> Vocabulary;
-
+        public static List<string> LearnWords = new List<string>();
         public static int LimitX = 0;
         public static int LimitY = 0;
+        public static string NameVocabulary = "";
 
         public string Value { get; private set;}
         public string RelVal { get; private set; }
@@ -22,9 +23,10 @@ namespace ReadingEnglishForm
 
         public int StartX;
         public int StartY;
-
+        public bool IsUpper = false;
 
         public Rectangle PlaceWord;
+        public int SucssesCount;
 
         public Word(string value, int x, int y, int width, int hight)
         {
